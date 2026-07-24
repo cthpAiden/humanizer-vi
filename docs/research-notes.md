@@ -162,6 +162,11 @@ Tổng sau vòng 9: **36 tell** (27 trang trọng A1–A27 + 9 khẩu ngữ B1�
 
 **Thêm cùng vòng — hụt trong KHO, không phải hụt tell:** test một đoạn nhắn tin phàn nàn/bực mình (khẩu ngữ, cảm xúc TIÊU CỰC) thì phát hiện KHO VĂN-NGƯỜI chỉ có mục "biến âm dễ thương" (kéo dài kiểu vui — trờiii, đỉnhhh) mà thiếu hẳn phần tương ứng cho lúc GIẬN/bực (lặp từ nhấn, dấu câu dồn dập, viết hoa để hét). Đây không phải AI tell mới (không cần lên tên B10) mà là lỗ hổng trong bộ đồ nghề KHO — sửa bằng cách thêm một dòng đối xứng, không phải thêm tell. Fixture Case 12.
 
+**Thêm cùng vòng — 3 domain nhạy cảm/nghi lễ (chia buồn, chúc mừng, thông báo nhóm):**
+- **Lời chia buồn:** tìm ra ca thật đáng chú ý — Vanderbilt Peabody College bị sinh viên phản ứng gay gắt vì dùng nguyên email ChatGPT viết chia buồn sau vụ xả súng ở Michigan State (trithucvn.org). Xác nhận đây là vấn đề thật, nghiêm trọng hơn "lộ AI" thông thường. Nhưng xét kỹ thì cơ chế vẫn quy về A13 (chung chung) + luật no-fabrication có sẵn — không cần tell mới, chỉ cần một câu neo rõ ràng vào CHỐNG VÔ HỒN vì mức nghiêm trọng khác hẳn các domain khác (không chỉ "lộ AI" mà còn "gây tổn thương thật"). Ranh giới đạo đức quan trọng: không có chi tiết thật về người mất trong input thì TUYỆT ĐỐI không bịa kỷ niệm/tính cách — ngắn mà thật còn hơn dài mà giả.
+- **Lời chúc mừng (khai trương/sinh nhật/Tết):** suýt thêm nhầm — "an khang thịnh vượng", "vạn sự như ý" trông giống cụm sáo rỗng nhưng thực ra là **thành ngữ chúc văn hóa thật**, người Việt dùng nguyên văn không ngại. Không phải tell. Tell thật chỉ xảy ra khi AI nhồi liền 3 câu chúc cùng lúc — đúng cơ chế A10 (rule-of-three) đã có sẵn, chỉ thêm ví dụ.
+- **Thông báo nhóm chat công ty:** search không ra pattern cụ thể mới. Xét lại thấy vấn đề (AI viết quá trang trọng "Kính gửi các thành viên" cho một nhóm Zalo/Messenger vốn xuề xòa) là register-mismatch thuần túy — đúng chức năng QUY TẮC VÀNG đã xử lý (nhận diện register rồi bám đúng tông), không phải lỗ hổng riêng. Không cần thêm gì.
+
 ## NGUỒN
 - https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
 - Cao Xuân Hạo, Trần Thị Tuyết Mai — *Sổ tay sửa lỗi hành văn* (danh từ hóa, hành văn Việt tự nhiên)
@@ -193,3 +198,5 @@ Tổng sau vòng 9: **36 tell** (27 trang trọng A1–A27 + 9 khẩu ngữ B1�
 - https://bizfly.vn/techblog/thu-xin-loi-khach-hang-ve-chat-luong-dich-vu.html (mẫu thư xin lỗi khách hàng thật — xác nhận "xin lỗi vì sự bất tiện" KHÔNG phải calque)
 - https://luatminhkhue.vn/mau-thu-xin-loi-khach-hang.aspx (mẫu thư xin lỗi khách hàng thật)
 - https://vtcnews.vn/thi-truong-review-ao-khi-5-sao-cung-co-the-mua-duoc-ar970481.html (review ảo — lý do chủ động KHÔNG làm tell cho domain này)
+- https://trithucvn.org/khoa-hoc/sinh-vien-phan-no-khi-truong-hoc-dung-chatgpt-de-viet-loi-chia-buon-vu-xa-sung.html (Vanderbilt — ca thật, email chia buồn AI viết bị phản ứng)
+- https://rikisport.vn/tong-hop-loi-chuc-an-khang-thinh-vuong-van-su-nhu-y/ (xác nhận "an khang thịnh vượng/vạn sự như ý" là thành ngữ chúc văn hóa thật, không phải tell)

@@ -141,6 +141,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* liệt kê đúng 3 vế song song đều tăm tắp.
 - ❌ "Nó nhanh hơn, mạnh hơn, và thông minh hơn."
 - ✅ "Nó nhanh hơn hẳn, mạnh hơn, và — cái tôi thích nhất — thông minh hơn nhiều." *(phá thế cân đối)*
+- *Biến thể lời chúc:* chúc khai trương/sinh nhật/Tết thật thường chọn **một** câu quen thuộc ("an khang thịnh vượng" hoặc "vạn sự như ý"). Bản thân các thành ngữ chúc này **không phải tell** — là văn hóa thật, giữ nguyên. Chỉ thành tell khi AI nhồi liền 3 câu chúc cùng lúc ("an khang thịnh vượng, vạn sự như ý, phát tài phát lộc") đúng khuôn rule-of-three; lúc đó cắt còn 1, không cắt hết.
 
 **A11. Câu quá đều nhịp** `[cả hai]`
 *Lộ vì:* mọi câu cùng độ dài, cùng cấu trúc, không câu cụt.
@@ -327,6 +328,8 @@ Sau khi bỏ tell, kiểm thêm:
 - **Có chi tiết cụ thể không?** Con số, ví dụ thật, tình huống riêng — thay cho khẳng định chung chung.
 
 **Áp dụng khi nội dung cho phép** (blog, ý kiến, mạng xã hội). Với văn kỹ thuật/pháp lý/tham khảo, trung tính và chính xác *mới* là giọng người đúng — đừng nhét cảm xúc vào đó.
+
+**Văn chia buồn / tin dữ:** đây là chỗ "chung chung" (A13) gây hại thật, không chỉ lộ AI — một trường đại học từng bị sinh viên phản ứng gay gắt vì gửi nguyên email chia buồn do ChatGPT viết sau một vụ xả súng, đọc lên biết ngay không ai thật sự ngồi viết. Nếu input chỉ có khung câu chung ("xin chia buồn cùng gia đình", "cầu mong an nghỉ") mà không có chi tiết gì về người mất, **đừng bịa kỷ niệm/tính cách để nghe chân thành hơn** — không có gì để giữ thì để ngắn gọn, thật lòng còn hơn dài mà giả.
 
 ---
 
