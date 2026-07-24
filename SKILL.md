@@ -83,7 +83,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 ### Bảng tra nhanh (audit)
 
-**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque · A21 mở bài câu hỏi tu từ · A22 thẩm quyền rỗng · A23 lộ giọng AI · A24 bôi đậm vô tội vạ
+**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque · A21 mở bài câu hỏi tu từ · A22 thẩm quyền rỗng · A23 lộ giọng AI · A24 bôi đậm vô tội vạ · A25 danh-từ-hóa sự/việc · A26 mạo từ một/các thừa
 
 **Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ · B9 không chèn tiếng Anh
 
@@ -223,6 +223,20 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Học thì kiên trì là chính, thêm phương pháp đúng nữa là ổn."
 - *Quy tắc:* input trơn (không bôi đậm) → output cũng trơn. Chỉ giữ in đậm nếu input dùng có chủ đích và thưa (1–2 chỗ), không rải mỗi câu.
 
+*(A25–A26 là lỗi hành văn Việt kinh điển — văn dịch/AI hay mắc, làm câu mất tự nhiên. Nền: Cao Xuân Hạo, "Sổ tay sửa lỗi hành văn".)*
+
+**A25. Danh-từ-hóa "sự / việc" quá đà** `[trang trọng]`
+*Lộ vì:* nhồi "sự + tính từ", "việc + động từ" làm câu nặng, ẩn người làm, mất sức sống. Tiếng Việt thích dùng thẳng động từ.
+- ❌ "Sự thành công của việc áp dụng phương pháp mới đã mang lại sự cải thiện đáng kể cho hiệu suất."
+- ✅ "Áp dụng cách mới nên hiệu suất tốt lên hẳn."
+- *Mẹo:* thấy "sự/việc" đứng trước động từ/tính từ, thử bỏ và trả về động từ gốc ("sự phát triển của" → "… phát triển").
+
+**A26. Mạo từ "một" thừa + "các/những" máy móc** `[cả hai]`
+*Lộ vì:* tiếng Việt không có mạo từ; văn dịch bê "a/an" thành "một", "the/số nhiều" thành "các/những" ở chỗ tiếng Việt vốn để trống.
+- ❌ "Đây là một giải pháp giúp bạn đạt được những kết quả tốt trong các công việc hằng ngày."
+- ✅ "Giải pháp này giúp bạn làm việc hằng ngày tốt hơn."
+- *Mẹo:* "một" trước danh từ chung mà không nhấn "số một" thì thường bỏ được; "các/những" chỉ giữ khi thật cần nhấn số nhiều.
+
 ### NHÓM B — Register KHẨU NGỮ
 
 *(AI viết comment/chat vẫn lộ vì thiếu chất "gõ vội" của người thật.)*
@@ -338,5 +352,6 @@ Trả kết quả theo cách người dùng gọi skill (mượn "invocation mod
 - **Không đổi nghĩa, không bịa.** Humanize là đổi *cách nói*, không đổi *nội dung*. Tuyệt đối không thêm sự kiện, tên, con số, ngày tháng, trích dẫn hay nguồn không có trong bản gốc — kể cả khi "chống vô hồn" cần chi tiết, chỉ được rút chi tiết từ chính input, không dựng mới.
 - **Giữ thông tin, không giữ khuôn.** Giữ đủ MỌI ý của bản gốc — đừng bỏ ý nào (5 lời cảm ơn khác nhau thì đừng gộp còn 2). Được phép cắt *chữ rỗng* và siết đoạn lê thê, nhưng không cắt *nội dung*. Bỏ tell ≠ bỏ ý.
 - **Đừng humanize quá tay.** Một câu sạch sẵn thì để yên — không phải câu nào cũng cần nhét tiểu từ.
+- **Tự nhiên hơn khôn lỏi.** Đừng cố nhả slang/idiom lạ cho "ngầu". Cụm gượng ("ra chuyện", "gét gô" nhét ẩu) còn lộ hơn câu phẳng. Không chắc một cách nói khẩu ngữ có tự nhiên không thì chọn cách nói thường, dễ hiểu.
 - **Không tự chế trang trí.** Đừng thêm emoji/icon/hashtag/VIẾT HOA mà input không có. Trang trí bịa ra vừa là thêm nội dung, vừa dễ thành tell B2 (emoji template). Bám đúng mức trang trí của input.
 - **Register là trên hết.** Sai tông (formal thành slang) còn lộ hơn cả để nguyên tell.

@@ -133,8 +133,22 @@ Kích bởi feedback test: bản humanize post bán hàng bị bóp phẳng thà
 
 Tổng: **33 tell** (24 trang trọng + 9 khẩu ngữ) — cùng con số 33 với blader nhưng nội dung Việt hóa.
 
+## VÒNG 8 — LỖI HÀNH VĂN VIỆT KINH ĐIỂN (2026-07-24)
+
+Kích bởi feedback "ra chuyện nghe gượng" + goal "tự nhiên nhất". Đào lỗi hành văn Việt gốc (không phải tell dịch từ Anh) — thứ làm văn AI Việt kém tự nhiên nhất:
+
+- **Danh-từ-hóa "sự/việc" quá đà** → tell **A25**. Nhồi "sự thành công của việc áp dụng" làm câu nặng, ẩn tác nhân, mất sức sống. Tiếng Việt thích động từ trực tiếp. Nền: Cao Xuân Hạo & Trần Thị Tuyết Mai, *Sổ tay sửa lỗi hành văn*; zim.vn (danh từ hóa mặt hại); tuoitre.
+- **Mạo từ "một" thừa + "các/những" máy móc** → tell **A26**. Tiếng Việt không có mạo từ; văn dịch bê "a/an"→"một", số nhiều→"các/những" ở chỗ vốn để trống. Nền: izone/dantri (khác biệt hệ mạo từ Anh–Việt).
+- **Guard "tự nhiên hơn khôn lỏi"** (LƯU Ý) — đừng cố nhả idiom/slang lạ; cụm gượng còn lộ hơn câu phẳng. Rút từ chính lỗi "ra chuyện" của bản dogfood.
+
+Hai tell này VN-riêng (blader không có), thuộc mạch dịch-ese cùng A14/A19 nhưng ở tầng hành văn sâu hơn. Tổng: **35 tell** (26 trang trọng + 9 khẩu ngữ).
+
 ## NGUỒN
 - https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
+- Cao Xuân Hạo, Trần Thị Tuyết Mai — *Sổ tay sửa lỗi hành văn* (danh từ hóa, hành văn Việt tự nhiên)
+- https://zim.vn/danh-tu-hoa-co-mat-loi-va-mat-hai-nhu-the-nao-khi-su-dung-trong-ielts (mặt hại danh từ hóa)
+- https://tuoitre.vn/xin-dung-lam-bien-dang-tieng-viet-1215400.htm (lỗi hành văn dịch-ese)
+- https://www.izone.edu.vn/luyen-thi-ielts/mao-tu-cac-loi-thuong-gap/ (hệ mạo từ Anh vs Việt)
 - https://help.brandsvietnam.com/vi/article/dau-hieu-nhan-biet-noi-dung-duoc-viet-boi-ai-3zy07d/
 - https://npm.vn/cau-truc-bai-viet-ban-hang-chuan-tren-facebook/ (cấu trúc post bán hàng thật)
 - https://careers.langmaster.edu.vn/goi-y-12-mau-bai-dang-ban-hang-online-tren-facebook-hieu-qua (mẫu post + quy tắc xuống dòng/emoji)
