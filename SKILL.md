@@ -65,6 +65,14 @@ Nếu input có giọng vùng miền (Bắc/Trung/Nam) — ví dụ "mô/tê/ră
 - **Trung:** mô (đâu), tê (kia), răng (sao), rứa (thế), chi (gì), ni (này), nớ (ấy), nỏ (không), mần (làm), chộ (thấy); xưng tau/mi/choa/bây; tiểu từ hè/hầy/hí
 - **Nam:** nghen/hen (nhé), hông (không), chớ (chứ), dữ (ghê/lắm), mắc cười (buồn cười), quá trời (rất), mậy (mày); xưng tui/tao/mày/bây
 
+### Giữ đúng định dạng của register
+
+Humanize không chỉ đổi chữ, còn giữ **cách trình bày** đúng register. Sai định dạng lộ y như sai tông. Đừng mặc định "bỏ cấu trúc = người hơn" — định dạng phải đi theo register:
+
+- **Post mạng xã hội / bán hàng:** người bán thật KHÔNG viết một khối văn xuôi liền. Họ xuống dòng ngắn (2–3 dòng một đoạn), chừa dòng trống giữa đoạn, emoji thưa đầu đoạn, VIẾT HOA phần nhấn (ưu đãi, giá, GIẢM), CTA nằm riêng một dòng. Bóp một post bán hàng thành cục văn xuôi là làm nó giống AI HƠN. Giữ (hoặc khôi phục) nhịp thị giác đó, chỉ bỏ buzzword/calque trong từng dòng.
+- **Bài viết / báo cáo trang trọng:** ngược lại — nếu AI bổ mọi thứ thành bullet chung chung (A9), gộp lại thành đoạn văn có mạch. Đúng định dạng ở đây là văn liền.
+- **Chat / comment:** ngắn, viết thường được, xuống dòng tự nhiên; đừng canh lề chỉn chu.
+
 ---
 
 ## CATALOG DẤU HIỆU VĂN AI
@@ -91,9 +99,9 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Sản phẩm bền, đẹp, giá hợp lý mà dùng lại tiện."
 
 **A3. Nối đoạn máy móc** `[trang trọng]`
-*Lộ vì:* dùng "Hơn nữa / Bên cạnh đó / Trên thực tế / Tuy nhiên," như keo dán công nghiệp ở đầu mỗi câu.
-- ❌ "Hơn nữa, điều này còn giúp tiết kiệm chi phí. Bên cạnh đó, nó cải thiện hiệu suất."
-- ✅ "Cách này còn tiết kiệm chi phí và cải thiện hiệu suất."
+*Lộ vì:* dùng "Hơn nữa / Bên cạnh đó / Trên thực tế / Tuy nhiên," như keo dán công nghiệp ở đầu mỗi câu. Cùng họ: đại từ chỉ định "**điều này / việc này / chính vì vậy / từ đó / đây là lý do**" lặp làm keo nối — ChatGPT rất hay lặp "điều này/việc này".
+- ❌ "Hơn nữa, điều này còn giúp tiết kiệm chi phí. Bên cạnh đó, việc này cải thiện hiệu suất. Chính vì vậy, đây là lựa chọn tối ưu."
+- ✅ "Cách này tiết kiệm chi phí và chạy nhanh hơn, nên đáng cân nhắc."
 
 **A4. Kết bài khuôn** `[trang trọng]`
 *Lộ vì:* đóng bằng "Tóm lại / Nhìn chung / Kết luận lại / Có thể thấy rằng" rồi nhắc lại ý cũ.
@@ -290,6 +298,6 @@ Rồi viết lại **theo giọng của họ**, không chỉ bỏ tell mà còn 
 ## LƯU Ý
 
 - **Không đổi nghĩa, không bịa.** Humanize là đổi *cách nói*, không đổi *nội dung*.
-- **Giữ độ dài.** Input 3 đoạn thì output 3 đoạn; đừng cắt cụt.
+- **Giữ độ dài.** Input 3 đoạn thì output 3 đoạn; input 5 câu thì output cũng cỡ đó — đừng nén 5 câu còn 3. Bỏ tell là bỏ *chữ thừa*, không phải bỏ *ý*. Nén cụt là mất chi tiết và làm văn cộc.
 - **Đừng humanize quá tay.** Một câu sạch sẵn thì để yên — không phải câu nào cũng cần nhét tiểu từ.
 - **Register là trên hết.** Sai tông (formal thành slang) còn lộ hơn cả để nguyên tell.

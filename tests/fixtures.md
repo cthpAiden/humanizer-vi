@@ -116,3 +116,31 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau:**
 > phim này vibe ghê, hay thật sự á. real đáng xem luôn
+
+---
+
+## Case 10 — Post bán hàng Facebook (giữ ĐỊNH DẠNG)
+
+**Tells:** A1 (mở bài bối cảnh), A5 (buzzword), A2 (không chỉ…mà còn), A19 (bị động thừa), A9 (bullet + "Dưới đây là"), A20 (calque "Đừng ngần ngại")
+*Điểm chính: humanize KHÔNG được bóp phẳng thành cục văn xuôi. Người bán thật xuống dòng ngắn, emoji thưa, VIẾT HOA ưu đãi, CTA riêng dòng. Giữ nhịp thị giác, chỉ bỏ tell trong từng dòng.*
+
+❌ **Trước:**
+> Trong thời đại mà sức khỏe ngày càng được quan tâm, sản phẩm của chúng tôi ra đời nhằm mang đến giải pháp toàn diện cho bạn. Sản phẩm không chỉ được chiết xuất từ thiên nhiên mà còn được kiểm định bởi các chuyên gia hàng đầu. Dưới đây là những lợi ích nổi bật:
+> - Tăng cường sức khỏe
+> - Cải thiện làn da
+> - Nâng cao tinh thần
+>
+> Đừng ngần ngại liên hệ với chúng tôi để được tư vấn một cách tận tình nhất!
+
+✅ **Sau (giữ định dạng post):**
+> 🌿 Dạo này ai cũng lo giữ sức khỏe, nên bên mình làm ra em này.
+>
+> Chiết xuất từ thiên nhiên, đã qua tay chuyên gia kiểm định đàng hoàng.
+> Dùng đều một thời gian:
+> ✨ người khỏe hơn
+> ✨ da đẹp lên thấy rõ
+> ✨ tinh thần cũng phấn chấn
+>
+> 👉 Cần tư vấn gì cứ nhắn bên mình nha, tư vấn kỹ cho bạn.
+
+*So Case 2 (cũng bán hàng nhưng gộp thành đoạn): Case 2 là content chèn trong bài viết → gộp văn liền. Case 10 là POST đứng riêng → giữ nhịp xuống dòng. Định dạng theo register, không cứng nhắc một kiểu.*

@@ -101,8 +101,22 @@ Mục đích: nguyên liệu cho catalog tells trong SKILL.md. Chưa phải bả
 - **Kéo dài chữ / keysmash**: "đỉnhhh", "trờiii" — nhấn cảm xúc, AI không có.
 - Chốt: casual giờ phủ cả forum (Voz) lẫn Gen-Z social (Threads/TikTok).
 
+## VÒNG 6 — ĐỊNH DẠNG POST + KEO NỐI (2026-07-24)
+
+Kích bởi feedback test: bản humanize post bán hàng bị bóp phẳng thành cục văn xuôi (trình bày "chưa đẹp mắt"), và một comment bị nén 5 câu còn 3 (mất độ dài).
+
+- **Định dạng theo register** — post bán hàng/mạng xã hội thật KHÔNG viết khối văn xuôi liền: 3 dòng đầu là hook (trước "Xem thêm"), xuống dòng mỗi 2–3 dòng, chừa dòng trống, emoji thưa đầu đoạn, VIẾT HOA phần nhấn (SALE/GIẢM/giá), CTA riêng một dòng (nguồn: npm.vn, langmaster, imta). → Bóp post thành văn xuôi làm nó giống AI HƠN. Thêm mục "Giữ đúng định dạng của register" vào QUY TẮC VÀNG + fixture Case 10. Phân biệt với A9: A9 phạt bullet chung chung trong *bài viết trang trọng*; post xã hội đứng riêng thì cấu trúc thị giác lại là chất người.
+- **Keo nối chỉ định** — ChatGPT lặp "điều này / việc này / chính vì vậy / từ đó / đây là lý do" làm keo dán đầu câu (nguồn: brandsvietnam, sctt.net.vn, cudekai). → Làm dày tell **A3**.
+- **Giữ độ dài** — bỏ tell là bỏ *chữ thừa*, không phải bỏ *ý*; nén 5 câu còn 3 là mất chi tiết. → Siết lại LƯU Ý.
+- **Xác nhận B5 ở tầm văn hóa** — có trào lưu người Việt cố tình viết sai chính tả/typo để "chứng minh không dùng AI" (VnExpress, Báo Hà Tĩnh). Củng cố: "sạch bong không lỗi" = tell khẩu ngữ thật.
+
 ## NGUỒN
 - https://help.brandsvietnam.com/vi/article/dau-hieu-nhan-biet-noi-dung-duoc-viet-boi-ai-3zy07d/
+- https://npm.vn/cau-truc-bai-viet-ban-hang-chuan-tren-facebook/ (cấu trúc post bán hàng thật)
+- https://careers.langmaster.edu.vn/goi-y-12-mau-bai-dang-ban-hang-online-tren-facebook-hieu-qua (mẫu post + quy tắc xuống dòng/emoji)
+- https://imta.edu.vn/cach-viet-content-facebook/ (định dạng caption FB)
+- https://sctt.net.vn/cach-nhan-biet-bai-viet-co-duoc-viet-boi-chatgpt-hay-khong/ (lặp "điều này/việc này/bởi")
+- https://vnexpress.net/co-tinh-viet-do-sai-chinh-ta-de-chung-minh-khong-dung-ai-5072021.html (typo cố ý = chứng minh không AI)
 - https://voz.vn/t/vi-sao-threads-thanh-noi-ly-tuong-de-boc-phot-va-xa-gian.1108727/ (mẫu văn-người)
 - https://voz.vn/t/tam-su-chuyen-gia-dinh.1184247/ (mẫu văn-người)
 - https://www.toponseek.com/blogs/dich-vu-viet-bai-chuan-seo-len-top/ (mẫu văn-AI thật)
