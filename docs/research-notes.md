@@ -75,11 +75,28 @@ Mục đích: nguyên liệu cho catalog tells trong SKILL.md. Chưa phải bả
 - A7: "một cách tự nhiên / một cách khéo léo / một cách rõ ràng".
 - A5/A6: "bền vững, mang lại hiệu quả lâu dài".
 
+## VÒNG 3 — VĂN NGHỊ LUẬN + VÙNG MIỀN (2026-07-24)
+
+**Văn-AI nghị luận/học đường** (nhóm dùng humanizer đông nhất — học sinh xài ChatGPT làm văn):
+- Mở bài khuôn "Từ xưa đến nay… / Trong cuộc sống…" + định nghĩa "truyền thống quý báu / phẩm chất đạo đức thiết yếu" → tell **A16**.
+- Kết bài kêu gọi đạo lý "Vì vậy, mỗi chúng ta cần…" → tell **A17**.
+- Động từ văn học sáo (nuôi dưỡng/bồi đắp/vun đắp/thắp sáng/gìn giữ) + ẩn dụ mòn (dòng suối trong xanh) → tell **A18**.
+- Bổ sung vào A6: "đa chiều", "bức tranh tổng thể", "khám phá sâu" (quantrimang).
+
+**Từ vựng vùng miền** (làm dày tính năng giữ giọng):
+- Trung: mô/tê/răng/rứa/chi/ni/nớ/nỏ/mần/chộ; xưng tau/mi/choa/bây; tiểu từ hè/hầy/hí.
+- Nam: nghen/hen/hông/chớ/dữ/mắc cười/quá trời; xưng tui/mậy/bây.
+- Nguyên tắc: CHỈ giữ khi input đã có giọng vùng, không tự áp.
+
 ## NGUỒN
 - https://help.brandsvietnam.com/vi/article/dau-hieu-nhan-biet-noi-dung-duoc-viet-boi-ai-3zy07d/
 - https://voz.vn/t/vi-sao-threads-thanh-noi-ly-tuong-de-boc-phot-va-xa-gian.1108727/ (mẫu văn-người)
 - https://voz.vn/t/tam-su-chuyen-gia-dinh.1184247/ (mẫu văn-người)
 - https://www.toponseek.com/blogs/dich-vu-viet-bai-chuan-seo-len-top/ (mẫu văn-AI thật)
+- https://quantrimang.com/meo-nhan-biet-van-ban-do-ai-tao-ra-214574 (dấu hiệu AI)
+- https://fptshop.com.vn/tin-tuc/danh-gia/mau-bai-van-long-biet-on-174981 (văn mẫu — nguồn cliché nghị luận)
+- https://cellphones.com.vn/sforum/rua-la-gi (từ địa phương Trung)
+- https://nghiencuulichsu.com/2023/04/24/ngon-ngu-binh-dan-cua-sai-gon-va-nguoi-mien-nam/ (từ địa phương Nam)
 - https://vnreview.vn/threads/bay-cach-viet-bang-chatgpt-ma-khong-bi-phat-hien.45919/
 - https://arxiv.org/html/2405.03206
 - https://vi.wikipedia.org/wiki/Danh_sách_tiếng_lóng_trong_tiếng_Việt_của_thế_hệ_Z

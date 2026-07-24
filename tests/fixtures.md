@@ -78,3 +78,16 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau:**
 > T cũng từng gặp y chang. Thử cách của ông mà ko ăn thua. Chắc ko hợp với t r.
+
+---
+
+## Case 7 — Nghị luận xã hội (trang trọng, học đường)
+
+**Tells:** A16 (mở bài văn mẫu), A18 (động từ văn học sáo + rule-of-three), A17 (kết bài kêu gọi đạo lý)
+*Đây là kiểu văn học sinh nhờ ChatGPT viết — nhóm dùng humanizer đông nhất.*
+
+❌ **Trước:**
+> Từ xưa đến nay, lòng biết ơn luôn là một truyền thống quý báu của dân tộc ta. Lòng biết ơn nuôi dưỡng tâm hồn, bồi đắp nhân cách và thắp sáng những giá trị tốt đẹp. Vì vậy, mỗi chúng ta cần phải biết trân trọng và gìn giữ lòng biết ơn ngay từ hôm nay.
+
+✅ **Sau:**
+> Người Việt trọng chuyện biết ơn từ lâu, kiểu "ăn quả nhớ kẻ trồng cây". Biết ơn làm mình sống tử tế hơn, nghĩ cho người khác hơn. Nên đừng để nó thành lời nói suông — gọi cho ba mẹ tối nay cũng là một cách.

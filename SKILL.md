@@ -61,6 +61,10 @@ Nếu input có giọng vùng miền (Bắc/Trung/Nam) — ví dụ "mô/tê/ră
 - ❌ Sửa SAI (kéo về Bắc): "Cái này hay quá nhỉ, cậu thử chưa?"
 - ✅ Sửa ĐÚNG (giữ Trung): "Cái ni hay thiệt hè, mi thử chưa rứa?"
 
+**Từ vựng vùng miền** (giữ khi input đã dùng — đừng tự áp lên văn không có giọng vùng):
+- **Trung:** mô (đâu), tê (kia), răng (sao), rứa (thế), chi (gì), ni (này), nớ (ấy), nỏ (không), mần (làm), chộ (thấy); xưng tau/mi/choa/bây; tiểu từ hè/hầy/hí
+- **Nam:** nghen/hen (nhé), hông (không), chớ (chứ), dữ (ghê/lắm), mắc cười (buồn cười), quá trời (rất), mậy (mày); xưng tui/tao/mày/bây
+
 ---
 
 ## CATALOG DẤU HIỆU VĂN AI
@@ -69,7 +73,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 ### Bảng tra nhanh (audit)
 
-**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo
+**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo
 
 **Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ
 
@@ -102,7 +106,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Giải pháp giúp doanh nghiệp bớt rối khi chuyển đổi số."
 
 **A6. Từ hoa mỹ AI** `[trang trọng]`
-*Lộ vì:* "sâu sắc / vô cùng / không thể phủ nhận / đa dạng và phong phú / đáng kể / thiết yếu" rải khắp nơi.
+*Lộ vì:* "sâu sắc / vô cùng / không thể phủ nhận / đa dạng và phong phú / đáng kể / thiết yếu / đa chiều / bức tranh tổng thể" rải khắp nơi.
 - ❌ "Đây là một trải nghiệm vô cùng sâu sắc và không thể phủ nhận giá trị to lớn của nó."
 - ✅ "Đây là trải nghiệm đáng giá, và hiệu quả thì thấy rõ."
 
@@ -151,6 +155,23 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* nói đi nói lại cùng một ý bằng từ khác; đoạn sau nhắc lại đoạn trước mà không thêm gì mới.
 - ❌ "Học ngoại ngữ rất quan trọng. Việc biết thêm một ngôn ngữ mang lại nhiều lợi ích. Nói cách khác, thành thạo ngoại ngữ giúp ích rất nhiều cho bạn."
 - ✅ "Biết thêm một ngoại ngữ mở ra việc làm, bạn mới, và cả phim không cần phụ đề."
+
+*(A16–A18 là đặc sản văn nghị luận/học đường — học sinh xài ChatGPT làm văn mẫu.)*
+
+**A16. Mở bài văn mẫu** `[trang trọng]`
+*Lộ vì:* nghị luận AI mở bằng khuôn "Từ xưa đến nay… / Trong cuộc sống…" rồi định nghĩa khái niệm như "truyền thống quý báu / phẩm chất đạo đức thiết yếu".
+- ❌ "Từ xưa đến nay, lòng biết ơn luôn là một truyền thống quý báu và là phẩm chất đạo đức thiết yếu của dân tộc ta."
+- ✅ "Ông bà mình dạy 'ăn quả nhớ kẻ trồng cây' — biết ơn ngấm vào người Việt từ bé."
+
+**A17. Kết bài kêu gọi đạo lý** `[trang trọng]`
+*Lộ vì:* đóng bài bằng lời hô hào chung "Vì vậy, mỗi chúng ta cần… / hãy…" nghe như khẩu hiệu.
+- ❌ "Vì vậy, mỗi chúng ta cần phải biết trân trọng và nuôi dưỡng lòng biết ơn ngay từ hôm nay."
+- ✅ "Nên thay vì nói suông, thử gọi cho ba mẹ tối nay xem — nhỏ vậy thôi mà là biết ơn thật."
+
+**A18. Động từ / ẩn dụ văn học sáo** `[trang trọng]`
+*Lộ vì:* nhồi động từ "nuôi dưỡng / bồi đắp / vun đắp / thắp sáng / gìn giữ" + ẩn dụ mòn "dòng suối trong xanh", "ngọn lửa", "hành trang".
+- ❌ "Lòng biết ơn nuôi dưỡng tâm hồn, bồi đắp nhân cách và thắp sáng những giá trị tốt đẹp."
+- ✅ "Biết ơn khiến người ta sống tử tế hơn, nghĩ cho người khác hơn."
 
 ### NHÓM B — Register KHẨU NGỮ
 
