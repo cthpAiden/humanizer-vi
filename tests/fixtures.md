@@ -104,3 +104,15 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau:**
 > Dạ chào anh/chị, em gửi anh/chị bản báo cáo bên em vừa làm xong. Anh/chị xem có chỗ nào cần chỉnh thì nhắn em nhé. Em cảm ơn ạ.
+
+---
+
+## Case 9 — Bình luận Gen-Z (khẩu ngữ)
+
+**Tells:** B9 (không chèn tiếng Anh), B1 (thiếu tiểu từ), B5 (sạch quá)
+
+❌ **Trước:**
+> Bộ phim này thực sự rất hay và tạo cảm giác tích cực. Tôi hoàn toàn đồng ý rằng nó rất đáng xem.
+
+✅ **Sau:**
+> phim này vibe ghê, hay thật sự á. real đáng xem luôn

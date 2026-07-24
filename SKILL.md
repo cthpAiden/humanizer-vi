@@ -75,7 +75,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 **Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque
 
-**Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ
+**Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ · B9 không chèn tiếng Anh
 
 ### NHÓM A — Register TRANG TRỌNG
 
@@ -231,6 +231,11 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Tôi không làm gì cả, tôi chỉ vào để xem thôi. Tôi thấy cũng bình thường."
 - ✅ "Ko làm gì, vào xem cho vui thôi. Thấy cũng thường."
 
+**B9. Không chèn tiếng Anh (khi hợp)** `[khẩu ngữ]`
+*Lộ vì:* người trẻ Việt trộn tiếng Anh tự nhiên (vibe, mood, real, cringe, deadline, healing); AI viết thuần Việt trang trọng ngay chỗ lẽ ra có tiếng Anh.
+- ❌ "Bộ phim này thực sự tạo cảm giác tích cực. Tôi cảm thấy đồng cảm với nội dung."
+- ✅ "Phim này vibe dễ chịu ghê. Real luôn á, xem thấy relate."
+
 ---
 
 ## KHO VĂN-NGƯỜI (bộ đồ nghề cho vế "sau")
@@ -243,6 +248,8 @@ Khi humanize sang khẩu ngữ, rút từ đây — **dùng vừa phải, đúng
 - **Slang bền** (ít lỗi thời): vãi, xịn, gắt, đỉnh, gáy, cà khịa, ăn hành, real, u là trời
 - **Lược chủ ngữ:** bỏ "tôi/mình" đầu câu khi ngữ cảnh đã rõ — "Thấy cũng thường", "Ko đi đâu"
 - **Chửi nhẹ / rề:** vl/vcl, vãi, đéo, dkm/dcm, hãm, dở hơi — **CHỈ** khi input đã có giọng thô sẵn; đừng tự nhét vào comment lịch sự
+- **Chèn tiếng Anh (Gen-Z):** vibe, mood, real, cringe, toxic, deadline, healing — trộn tự nhiên khi input đã trẻ hóa
+- **Biến âm dễ thương / kéo dài (Gen-Z, dễ lỗi thời):** khum (không), gòy (rồi), iu (yêu), z (vậy), "đỉnhhh", "trờiii" — chỉ dùng khi input đã có giọng này
 
 > ⚠️ **Slang trend chớp nhoáng** (gét gô, chằm Zn, phim điện ảnh, thắng đời, sít rịt...) lỗi thời nhanh — chỉ dùng khi input đã có sẵn giọng đó. Lõi bền là **tiểu từ + viết tắt + nhịp lộn xộn**, không phải slang hot.
 

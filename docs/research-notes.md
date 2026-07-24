@@ -94,6 +94,13 @@ Mục đích: nguyên liệu cho catalog tells trong SKILL.md. Chưa phải bả
 - **Email calque** — "Tôi hy vọng email này tìm thấy bạn" = dịch sượng "I hope this email finds you well"; "Đừng ngần ngại liên hệ" = "don't hesitate to contact" → tell **A20**. Người Việt không mở email kiểu đó.
 - Bổ sung A14 (calque): "điều này có nghĩa là" (this means), "một trong những… nhất" (one of the most), "khi nói đến" (when it comes to).
 
+## VÒNG 5 — KHẨU NGỮ GEN-Z (2026-07-24)
+
+- **Code-switching**: người trẻ trộn tiếng Anh tự nhiên (vibe/mood/real/cringe/toxic/deadline/healing) vì ngắn + đủ sắc thái; AI viết thuần Việt trang trọng → tell **B9**.
+- **Biến âm dễ thương**: khum (không), gòy (rồi), iu (yêu), z (vậy), chếc gồi (chết rồi) — hiện tượng bền nhưng từ cụ thể dễ lỗi thời → đưa vào KHO kèm cảnh báo.
+- **Kéo dài chữ / keysmash**: "đỉnhhh", "trờiii" — nhấn cảm xúc, AI không có.
+- Chốt: casual giờ phủ cả forum (Voz) lẫn Gen-Z social (Threads/TikTok).
+
 ## NGUỒN
 - https://help.brandsvietnam.com/vi/article/dau-hieu-nhan-biet-noi-dung-duoc-viet-boi-ai-3zy07d/
 - https://voz.vn/t/vi-sao-threads-thanh-noi-ly-tuong-de-boc-phot-va-xa-gian.1108727/ (mẫu văn-người)
@@ -105,6 +112,8 @@ Mục đích: nguyên liệu cho catalog tells trong SKILL.md. Chưa phải bả
 - https://nghiencuulichsu.com/2023/04/24/ngon-ngu-binh-dan-cua-sai-gon-va-nguoi-mien-nam/ (từ địa phương Nam)
 - https://dichthuathaco.com.vn/mot-so-loi-dich-thuat-tieng-anh-thuong-hay-mac-phai.html (lỗi dịch Anh-Việt)
 - https://vnexpress.net/nhung-quy-tac-can-biet-khi-viet-email-tieng-anh-4402834.html (mẫu email — nguồn calque)
+- https://dantri.com.vn/nhip-song-tre/gen-z-thua-nhan-nhieu-khi-vo-thuc-noi-chuyen-pha-tap-tieng-viet-tieng-anh-20211014181125067.htm (code-switching Gen-Z)
+- https://quantrimang.com/cuoc-song/ngon-ngu-gen-z-184693 (biến âm Gen-Z: khum...)
 - https://vnreview.vn/threads/bay-cach-viet-bang-chatgpt-ma-khong-bi-phat-hien.45919/
 - https://arxiv.org/html/2405.03206
 - https://vi.wikipedia.org/wiki/Danh_sách_tiếng_lóng_trong_tiếng_Việt_của_thế_hệ_Z
