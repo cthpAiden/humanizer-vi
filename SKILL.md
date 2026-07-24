@@ -284,7 +284,8 @@ Rồi viết lại **theo giọng của họ**, không chỉ bỏ tell mà còn 
 2. **Audit** — quét theo CATALOG (nhóm tương ứng register), đánh dấu từng tell.
 3. **Rewrite** — sửa từng tell, giữ nghĩa + độ dài + dialect.
 4. **Chống vô hồn** — kiểm nhịp/quan điểm/chi tiết.
-5. **Final** — chỉ trả text đã humanize. Không kèm danh sách tell, không giải thích (trừ khi người dùng hỏi "sửa gì").
+5. **Tự kiểm** — quét lại chính bản vừa sửa: có vô tình tạo tell MỚI không? Hay gặp nhất là chèn em-dash (A8) khi nối ý, hoặc lỡ tay dựng rule-of-three (A10) mới. Bản sửa phải sạch tell như bản gốc — không được vá tell này bằng tell khác.
+6. **Final** — chỉ trả text đã humanize. Không kèm danh sách tell, không giải thích (trừ khi người dùng hỏi "sửa gì").
 
 ## LƯU Ý
 
