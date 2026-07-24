@@ -83,7 +83,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 ### Bảng tra nhanh (audit)
 
-**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque · A21 mở bài câu hỏi tu từ · A22 thẩm quyền rỗng · A23 lộ giọng AI · A24 bôi đậm vô tội vạ · A25 danh-từ-hóa sự/việc · A26 mạo từ một/các thừa
+**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email/CSKH calque · A21 mở bài câu hỏi tu từ · A22 thẩm quyền rỗng · A23 lộ giọng AI · A24 bôi đậm vô tội vạ · A25 danh-từ-hóa sự/việc · A26 mạo từ một/các thừa · A27 CV tự khen vô bằng chứng
 
 **Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ · B9 không chèn tiếng Anh
 
@@ -114,6 +114,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* "tạo giá trị / đồng bộ hóa mục tiêu / đóng vai trò quan trọng / chìa khóa thành công / nâng tầm" — nghe kêu nhưng rỗng.
 - ❌ "Giải pháp giúp doanh nghiệp tạo giá trị và đồng bộ hóa mục tiêu, đóng vai trò quan trọng trong hành trình chuyển đổi số."
 - ✅ "Giải pháp giúp doanh nghiệp bớt rối khi chuyển đổi số."
+- *Bắt gặp thật (đổi ngữ cảnh, cùng họ buzzword):* tin tuyển dụng "môi trường làm việc năng động, cơ hội thăng tiến rõ ràng, mức lương cạnh tranh"; CSKH "chúng tôi luôn đặt sự hài lòng của quý khách lên hàng đầu".
 
 **A6. Từ hoa mỹ AI** `[trang trọng]`
 *Lộ vì:* "sâu sắc / vô cùng / không thể phủ nhận / đa dạng và phong phú / đáng kể / thiết yếu / đa chiều / bức tranh tổng thể" rải khắp nơi.
@@ -192,10 +193,11 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Sản phẩm được phát triển bởi đội ngũ kỹ sư và được tin dùng bởi hàng nghìn khách hàng."
 - ✅ "Đội ngũ kỹ sư phát triển sản phẩm này; hàng nghìn khách hàng đang tin dùng."
 
-**A20. Email / công sở dịch calque** `[trang trọng]`
-*Lộ vì:* AI mở-đóng email bằng khuôn dịch từ tiếng Anh, không ai người Việt viết vậy: "Tôi hy vọng email này tìm thấy bạn" (I hope this email finds you well), "Đừng ngần ngại liên hệ" (don't hesitate to contact).
+**A20. Email / công sở / CSKH dịch calque** `[trang trọng]`
+*Lộ vì:* AI mở-đóng email (hoặc phản hồi khách hàng) bằng khuôn dịch từ tiếng Anh, không ai người Việt viết vậy: "Tôi hy vọng email này tìm thấy bạn" (I hope this email finds you well), "Đừng ngần ngại liên hệ" (don't hesitate to contact).
 - ❌ "Kính gửi Anh/Chị, Tôi hy vọng email này tìm thấy bạn trong trạng thái tốt. … Đừng ngần ngại liên hệ nếu có bất kỳ câu hỏi nào. Trân trọng."
 - ✅ "Dạ chào anh/chị, em có việc này muốn trao đổi. … Anh/chị cần gì thêm cứ nhắn em ạ. Em cảm ơn anh/chị."
+- *Áp dụng cả CSKH/hỗ trợ khách hàng* (chat, ticket, phản hồi khiếu nại), không riêng email. Cẩn thận: "xin lỗi vì sự bất tiện" hay "rất tiếc vì trải nghiệm chưa tốt" **không phải tell** — đây là công thức lịch sự người Việt thật cũng dùng trong CSKH. Chỉ sửa khi mở/đóng dịch sượng kiểu Anh ("Đừng ngần ngại", "Tôi hy vọng… tìm thấy bạn") hoặc bị động thừa (xem A19), đừng đụng câu xin lỗi bình thường.
 
 *(A21–A24 là các tell phổ quát của văn AI — đối chiếu bộ blader/humanizer, chỉnh cho tiếng Việt.)*
 
@@ -210,6 +212,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Theo các chuyên gia, việc uống đủ nước mỗi ngày mang lại vô số lợi ích. Nhiều nghiên cứu đã chỉ ra điều này."
 - ✅ "Uống đủ nước thì da đỡ khô, đầu óc tỉnh hơn — mấy hôm quên uống là thấy rõ."
 - *Lưu ý:* nếu bản gốc CÓ nguồn/số thật thì giữ; chỉ bỏ khi là "thẩm quyền rỗng" không dẫn được về đâu. Không được bịa nguồn để thay.
+- *Biến thể số liệu ảo:* AI hay bịa con số nghe rất chính xác nhưng không nguồn, kiểu "nghiên cứu cho thấy tăng 45% hiệu quả" hay "70% người dùng hài lòng". Số cụ thể giả còn dễ tin hơn "nhiều nghiên cứu" nên nguy hiểm hơn. Input có số kiểu này mà không kèm nguồn thật thì bỏ số, nói chung chung cho trung thực còn hơn giữ số vô căn cứ; tuyệt đối không tự chế nguồn để hợp thức hóa số đó.
 
 **A23. Lộ giọng trợ lý AI** `[cả hai]`
 *Lộ vì:* sót lại giọng chatbot — tự xưng là AI, rào "tính đến thời điểm", hoặc nịnh người hỏi.
@@ -236,6 +239,14 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Đây là một giải pháp giúp bạn đạt được những kết quả tốt trong các công việc hằng ngày."
 - ✅ "Giải pháp này giúp bạn làm việc hằng ngày tốt hơn."
 - *Mẹo:* "một" trước danh từ chung mà không nhấn "số một" thì thường bỏ được; "các/những" chỉ giữ khi thật cần nhấn số nhiều.
+
+*(A27 là dấu hiệu riêng của văn CV/hồ sơ xin việc — nhóm ứng dụng phổ biến không kém văn nghị luận.)*
+
+**A27. CV/thư xin việc: tự khen phẩm chất không bằng chứng** `[trang trọng]`
+*Lộ vì:* liệt một dây tính từ tự nhận (năng động, hòa đồng, chịu được áp lực cao, ham học hỏi, tinh thần trách nhiệm) không kèm ví dụ/số liệu — CV nào cũng giống CV nào, nhà tuyển dụng đọc phát chán vì rập khuôn hệt AI.
+- ❌ "Tôi là người năng động, hòa đồng, có tinh thần trách nhiệm cao. Tôi luôn chủ động học hỏi và có khả năng làm việc nhóm tốt, chịu được áp lực công việc cao."
+- ✅ "Tôi thích làm việc nhóm, chủ động hỏi ngay khi chưa rõ việc, và không ngại nhận thêm việc lúc gấp."
+- *Mẹo:* không có sẵn số liệu/thành tích thật trong input thì ĐỪNG bịa thêm số để "chứng minh" — chỉ cắt tính từ trùng ý (giữ 1-2, bỏ phần lặp) và đổi từ liệt kê tính từ sang mô tả hành vi cụ thể hơn. Input đã có ví dụ/số thật thì giữ nguyên, đừng cắt mất.
 
 ### NHÓM B — Register KHẨU NGỮ
 

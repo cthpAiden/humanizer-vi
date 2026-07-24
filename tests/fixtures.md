@@ -141,3 +141,16 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 > Cần tư vấn gì cứ nhắn bên mình nha, tư vấn kỹ cho bạn.
 
 *Hai điểm: (1) So Case 2 — Case 2 là content chèn trong bài viết → gộp văn liền; Case 10 là POST đứng riêng → giữ nhịp xuống dòng. (2) Input không có emoji nên bản sửa cũng không; nếu input đã có emoji thì giữ nhưng tỉa cho lệch, đừng rải đều mỗi dòng.*
+
+---
+
+## Case 11 — Giới thiệu bản thân trong CV (trang trọng)
+
+**Tells:** A27 (tự khen không bằng chứng), A11 (câu đều nhịp), A13 (chung chung)
+*Điểm chính: input không có sẵn số liệu/thành tích thật → bản sửa KHÔNG được bịa thêm số ("tăng doanh số 20%" chẳng hạn) để nghe thuyết phục hơn. Chỉ đổi tính từ liệt kê thành mô tả hành vi, vẫn giữ mức chung chung vốn có của bản gốc — không tự nâng cấp nội dung.*
+
+❌ **Trước:**
+> Tôi là một người năng động, hòa đồng và có tinh thần trách nhiệm cao trong công việc. Tôi luôn chủ động học hỏi những kiến thức mới và có khả năng làm việc nhóm tốt. Ngoài ra, tôi cũng có khả năng chịu được áp lực công việc cao và luôn hoàn thành tốt các nhiệm vụ được giao.
+
+✅ **Sau:**
+> Tôi thích làm việc nhóm và chủ động hỏi ngay khi chưa rõ việc. Việc gấp tôi vẫn cố làm cho xong đúng hạn, và sẵn sàng học thêm cái mới khi công việc cần.

@@ -143,6 +143,21 @@ Kích bởi feedback "ra chuyện nghe gượng" + goal "tự nhiên nhất". Đ
 
 Hai tell này VN-riêng (blader không có), thuộc mạch dịch-ese cùng A14/A19 nhưng ở tầng hành văn sâu hơn. Tổng: **35 tell** (26 trang trọng + 9 khẩu ngữ).
 
+## VÒNG 9 — DOMAIN MỚI: CV, CSKH, TUYỂN DỤNG (2026-07-24)
+
+Kích bởi `/goal` "loop tìm thêm case, coi còn thiếu sót gì ko". Test 3 domain chưa đụng tới: CV/hồ sơ xin việc, phản hồi CSKH, tin tuyển dụng (JD). Phương pháp: research real-world rồi tự tạo đoạn AI-style theo domain, áp catalog hiện có, xem còn lọt tell nào không.
+
+**Kết quả — 2/3 domain đã được catalog hiện tại phủ, không cần tell mới:**
+- **CSKH:** thử phản hồi khiếu nại kiểu AI ("Đừng ngần ngại liên hệ", "chúng tôi luôn đặt sự hài lòng lên hàng đầu") → đã khớp A20 (calque) + A5 (buzzword), chỉ cần thêm ví dụ thật. NHƯNG phát hiện rủi ro false-positive: "xin lỗi vì sự bất tiện" / "rất tiếc vì trải nghiệm chưa tốt" trông giống calque nhưng thực ra là công thức lịch sự **người Việt thật cũng dùng** (nguồn: mẫu thư xin lỗi khách hàng thật từ bizfly.vn, luatminhkhue.vn, cogover.com — không phải bài "nhận diện AI"). Đã thêm cảnh báo vào A20 để tránh sửa nhầm câu xin lỗi bình thường thành lỗi.
+- **Tin tuyển dụng (JD):** "môi trường làm việc năng động, cơ hội thăng tiến rõ ràng, mức lương cạnh tranh" → cùng họ A5 (buzzword doanh nghiệp), chỉ khác ngữ cảnh. Thêm ví dụ vào A5, không tách tell riêng (tránh phình catalog vô ích).
+
+**1 domain hụt thật — tell mới A27:**
+- **CV/thư xin việc:** tự nhận phẩm chất ("năng động, hòa đồng, chịu được áp lực cao, ham học hỏi") không kèm bằng chứng. Khác A5 ở chỗ đối tượng là NGƯỜI tự mô tả bản thân, không phải sản phẩm/công ty — và cách sửa cũng khác: không thể "thêm ví dụ/số liệu" như các fix khác vì input CV thật thường không có sẵn thành tích cụ thể để giữ, mà humanizer thì **không được bịa** (bịa thành tích trong CV còn là gian lận hồ sơ, không chỉ phạm luật no-fabrication). Nguồn xác nhận đây là vấn đề thật, không phải tưởng tượng: TopCV blog gọi thẳng "chịu được áp lực cao" là cụm ai cũng ghi nhưng rỗng; búa search nhiều bài than là CV ChatGPT "rập khuôn, thiếu cá tính, dễ nhận ra ngay". Fix: đổi tính từ liệt kê → mô tả hành vi cụ thể hơn (vẫn chung chung, chỉ đỡ trơ), KHÔNG nâng cấp nội dung. Thêm fixture Case 11 minh họa đúng ràng buộc này.
+
+**Cân nhắc rồi CHỦ ĐỘNG bỏ qua — review sản phẩm ảo:** search ra pattern rất rõ ("chất lượng tốt, đóng gói cẩn thận, giao hàng nhanh" lặp hàng loạt) và xác nhận đây là hiện tượng review ảo/mua bán đánh giá thật (vtcnews.vn). Không thêm tell cho domain này: humanize review ảo cho "qua mặt" bộ lọc là giúp che giấu hành vi gian lận thương mại (review fraud/astroturfing), khác bản chất với việc làm mượt văn viết hợp pháp (bài viết, CV, email, comment). Nằm ngoài phạm vi công cụ này.
+
+Tổng sau vòng 9: **36 tell** (27 trang trọng A1–A27 + 9 khẩu ngữ B1–B9).
+
 ## NGUỒN
 - https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
 - Cao Xuân Hạo, Trần Thị Tuyết Mai — *Sổ tay sửa lỗi hành văn* (danh từ hóa, hành văn Việt tự nhiên)
@@ -170,3 +185,7 @@ Hai tell này VN-riêng (blader không có), thuộc mạch dịch-ese cùng A14
 - https://arxiv.org/html/2405.03206
 - https://vi.wikipedia.org/wiki/Danh_sách_tiếng_lóng_trong_tiếng_Việt_của_thế_hệ_Z
 - https://zalopay.vn/ngon-ngu-gen-z-7469
+- https://blog.topcv.vn/chiu-duoc-ap-luc-dieu-ung-vien-nao-cung-ghi-trong-cv-nhung-su-that-la/ (CV sáo rỗng "chịu được áp lực" — nguồn A27)
+- https://bizfly.vn/techblog/thu-xin-loi-khach-hang-ve-chat-luong-dich-vu.html (mẫu thư xin lỗi khách hàng thật — xác nhận "xin lỗi vì sự bất tiện" KHÔNG phải calque)
+- https://luatminhkhue.vn/mau-thu-xin-loi-khach-hang.aspx (mẫu thư xin lỗi khách hàng thật)
+- https://vtcnews.vn/thi-truong-review-ao-khi-5-sao-cung-co-the-mua-duoc-ar970481.html (review ảo — lý do chủ động KHÔNG làm tell cho domain này)
