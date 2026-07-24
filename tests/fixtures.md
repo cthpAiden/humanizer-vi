@@ -198,3 +198,39 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 > 📍 Mỗi chuyến đi đều có một câu chuyện riêng. Còn bạn, nơi nào khiến bạn muốn quay lại nhiều lần nhất?
 
 *Lưu ý thêm: câu hỏi đóng ("Còn bạn... quay lại nhiều lần nhất?") KHÔNG phải tell — CTA mời tương tác là kỹ thuật content thật, người viết content thật cũng làm vậy. Để nguyên gần như y hệt.*
+
+---
+
+## Case 14 — Nhắn tin nhờ giúp đỡ, ĐÚNG mức thân (khẩu ngữ vừa phải)
+
+**Tells:** B4 (không viết tắt), B6 (xưng hô cứng), B1 (thiếu tiểu từ)
+*Điểm chính: đây là bản SỬA LẠI sau feedback người dùng — bản đầu dùng "tớ/cậu" + viết tắt "dc" bị chê sến/quá tay cho ngữ cảnh nhờ vả người không rõ độ thân. Casual không phải nhị phân: nhờ vả thì khẩu ngữ vừa phải (mình/bạn, tiểu từ thưa, KHÔNG cần viết tắt) mới tự nhiên, không phải cứ khẩu ngữ là kéo hết cỡ.*
+
+❌ **Trước:**
+> Chào bạn, tôi muốn nhờ bạn một việc. Tôi đang cần gấp một số tài liệu về marketing để hoàn thành báo cáo, không biết bạn có thể chia sẻ giúp tôi được không? Nếu bạn không có thời gian thì cũng không sao, tôi sẽ tìm cách khác. Cảm ơn bạn rất nhiều.
+
+✅ **Sau:**
+> Chào bạn, mình có việc này muốn nhờ chút. Mình đang cần gấp vài tài liệu marketing để làm báo cáo, bạn chia sẻ giúp mình được không? Không tiện thì thôi cũng được, mình tìm cách khác. Cảm ơn bạn nhiều nha.
+
+*So với bản sửa sai trước đó: xưng "mình/bạn" thay "tớ/cậu" (đỡ sến), viết đủ chữ "được" thay "dc" (viết tắt là tùy chọn, không bắt buộc) — vẫn casual nhờ tiểu từ (chút, nha) và nhịp buông tự nhiên ("Không tiện thì thôi cũng được"), không cần abbreviation mới casual được.*
+
+---
+
+## Case 15 — Bài suy ngẫm về thiên nhiên/du lịch (trang trọng, DÀY tell)
+
+**Tells:** A2 (không chỉ…mà còn, lặp 2 lần), A25 (danh-từ-hóa việc/sự, nhiều chỗ), A10 (rule-of-three LẶP KHUÔN 3 lần liên tiếp — ca nặng nhất bắt được), A14 (false range "từ…cho đến"), A3 ("Bên cạnh việc"), A4 ("Có thể khẳng định rằng"), A18 ("nuôi dưỡng" sáo văn học), A15 (lặp "nâng cao chất lượng" / "mở rộng" giữa các đoạn), A11 (nhịp đều toàn bài)
+*Điểm chính: đoạn dày tell nhất từng test — không chỉ nhiều LOẠI tell mà rule-of-three (A10) lặp lại ĐÚNG KHUÔN 3 lần ở 3 đoạn khác nhau (mở rộng góc nhìn/tái tạo/tìm cảm hứng — không gian/âm thanh/không khí — mở rộng hiểu biết/nuôi dưỡng/tạo động lực). Sửa: giữ NGUYÊN khuôn liệt kê ở đoạn 1, phá khuôn ở đoạn 2 (gộp thành câu văn xuôi) và đoạn 3 (đổi sang liệt kê kiểu khác, "X hơn một chút") — vừa cắt lặp khuôn vừa giữ đủ thông tin.*
+
+❌ **Trước:**
+> Thiên nhiên luôn mang đến những giá trị đặc biệt, không chỉ về mặt thẩm mỹ mà còn góp phần nâng cao chất lượng trải nghiệm và cân bằng cảm xúc trong cuộc sống hiện đại. Việc dành thời gian khám phá những cảnh quan đẹp là cơ hội để mỗi người mở rộng góc nhìn, tái tạo năng lượng và tìm kiếm nguồn cảm hứng mới sau những áp lực thường ngày.
+>
+> Mỗi địa điểm đều sở hữu những nét đặc trưng riêng, từ cảnh quan thiên nhiên, điều kiện khí hậu cho đến giá trị văn hóa bản địa. Chính sự đa dạng này tạo nên sức hấp dẫn của mỗi hành trình, đồng thời mang lại những trải nghiệm khác biệt cho từng cá nhân. Bên cạnh việc lưu giữ những khoảnh khắc đáng nhớ thông qua hình ảnh, việc trực tiếp cảm nhận không gian, âm thanh và bầu không khí của điểm đến sẽ giúp chuyến đi trở nên trọn vẹn hơn.
+>
+> Có thể khẳng định rằng, khám phá cảnh đẹp không chỉ đơn thuần là một hoạt động du lịch mà còn là một hình thức nâng cao chất lượng cuộc sống. Mỗi hành trình đều góp phần mở rộng hiểu biết, nuôi dưỡng cảm xúc tích cực và tạo động lực để tiếp tục khám phá những điểm đến mới trong tương lai.
+
+✅ **Sau:**
+> Thiên nhiên luôn mang lại giá trị đặc biệt, không chỉ đẹp mà còn giúp cuộc sống hiện đại bớt ngột ngạt, cảm xúc cũng cân bằng hơn. Dành thời gian khám phá cảnh đẹp là dịp để mở rộng góc nhìn, nạp lại năng lượng và tìm cảm hứng mới sau những ngày áp lực.
+>
+> Mỗi địa điểm đều có nét riêng: cảnh quan, khí hậu, văn hóa bản địa mỗi nơi mỗi khác. Khác biệt đó làm nên sức hút riêng của từng hành trình, và mỗi người cũng cảm nhận theo cách của mình. Ảnh chụp giữ lại được khoảnh khắc, nhưng đứng giữa không gian đó, nghe âm thanh và hít thở bầu không khí thật mới là thứ khiến chuyến đi trọn vẹn.
+>
+> Khám phá cảnh đẹp vì vậy không đơn thuần là đi du lịch, mà là một cách để sống chất lượng hơn. Mỗi chuyến đi đều để lại điều gì đó: hiểu biết rộng hơn một chút, cảm xúc tích cực hơn một chút, và động lực để lần sau lại tiếp tục lên đường.

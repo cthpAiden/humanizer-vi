@@ -143,6 +143,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Nó nhanh hơn, mạnh hơn, và thông minh hơn."
 - ✅ "Nó nhanh hơn hẳn, mạnh hơn, và — cái tôi thích nhất — thông minh hơn nhiều." *(phá thế cân đối)*
 - *Biến thể lời chúc:* chúc khai trương/sinh nhật/Tết thật thường chọn **một** câu quen thuộc ("an khang thịnh vượng" hoặc "vạn sự như ý"). Bản thân các thành ngữ chúc này **không phải tell** — là văn hóa thật, giữ nguyên. Chỉ thành tell khi AI nhồi liền 3 câu chúc cùng lúc ("an khang thịnh vượng, vạn sự như ý, phát tài phát lộc") đúng khuôn rule-of-three; lúc đó cắt còn 1, không cắt hết.
+- *Ca nặng — lặp khuôn nhiều lần trong một bài:* có bài AI nhét đúng khuôn liệt-kê-3-vế này ở NHIỀU đoạn khác nhau (không chỉ 1 câu mà 2-3 câu rải khắp bài, mỗi câu 3 vế song song). Phá thế cân đối 1 câu thôi chưa đủ — phải phá ít nhất 2 trong số đó theo cách KHÁC NHAU (gộp thành văn xuôi ở chỗ này, đổi format liệt kê khác ở chỗ kia) để bài không còn cùng một khuôn lặp lại; giữ nguyên tối đa 1 chỗ là được.
 
 **A11. Câu quá đều nhịp** `[cả hai]`
 *Lộ vì:* mọi câu cùng độ dài, cùng cấu trúc, không câu cụt.
@@ -304,11 +305,12 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 ## KHO VĂN-NGƯỜI (bộ đồ nghề cho vế "sau")
 
-Khi humanize sang khẩu ngữ, rút từ đây — **dùng vừa phải, đúng ngữ cảnh**, đừng nhồi:
+Khi humanize sang khẩu ngữ, rút từ đây — **dùng vừa phải, đúng ngữ cảnh**, đừng nhồi. Mức độ cũng nên theo **độ thân của ngữ cảnh**: nhờ vả người không quá thân, đồng nghiệp, người mới quen thì khẩu ngữ vừa phải (mình/bạn hoặc tôi/bạn, tiểu từ thưa, viết tắt không bắt buộc) tự nhiên hơn dùng hết cỡ (t/m, viết tắt dày) như với bạn thân. Viết tắt (dc/ko/r…) là gia vị tùy chọn, không phải điều kiện bắt buộc để "đủ khẩu ngữ" — thiếu nó câu vẫn casual được nếu tiểu từ + nhịp đã tự nhiên.
 
 - **Tiểu từ cuối câu:** nha, nhé, nhỉ, á, à, ạ, đó, luôn, ha, ý, vậy, cơ, mà, thôi, đấy, ấy
-- **Viết tắt net:** ko/k (không), dc/đc (được), r (rồi), vs (với), ntn (như thế nào), j (gì), bh (bao giờ), mn (mọi người), ae (anh em), bn (bạn), vc/vch (vợ chồng)
-- **Xưng hô net:** t/m (tao/mày), mình/tớ, ông/bà, fen, thớt (chủ thread), các bác, nó (ngôi 3), vozer (tùy cộng đồng)
+- **Viết tắt net** (tùy chọn, không bắt buộc): ko/k (không), dc/đc (được), r (rồi), vs (với), ntn (như thế nào), j (gì), bh (bao giờ), mn (mọi người), ae (anh em), bn (bạn), vc/vch (vợ chồng)
+- **Xưng hô net:** t/m (tao/mày, thân/suồng sã), **mình/bạn hoặc tôi/bạn (mặc định an toàn, trung tính — dùng khi không rõ độ thân)**, ông/bà, fen, thớt (chủ thread), các bác, nó (ngôi 3), vozer (tùy cộng đồng)
+  - ⚠️ **"tớ/cậu"** nghe sến, hợp giọng thư tình/truyện tuổi teen hơn nhắn tin đời thường — CHỈ dùng khi input đã tự xưng vậy sẵn, đừng tự đổi qua.
 - **Slang bền** (ít lỗi thời): vãi, xịn, gắt, đỉnh, gáy, cà khịa, ăn hành, real, u là trời
 - **Lược chủ ngữ:** bỏ "tôi/mình" đầu câu khi ngữ cảnh đã rõ — "Thấy cũng thường", "Ko đi đâu"
 - **Chửi nhẹ / rề:** vl/vcl, vãi, đéo, dkm/dcm, hãm, dở hơi — **CHỈ** khi input đã có giọng thô sẵn; đừng tự nhét vào comment lịch sự

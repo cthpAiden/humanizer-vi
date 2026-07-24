@@ -171,6 +171,18 @@ Tổng sau vòng 9: **36 tell** (27 trang trọng A1–A27 + 9 khẩu ngữ B1�
 
 Cũng xác nhận thêm: câu hỏi mời tương tác cuối bài (CTA) KHÔNG phải tell — kỹ thuật content thật, để nguyên.
 
+## VÒNG 9F — FEEDBACK NGƯỜI DÙNG: "TỚ/CẬU" SẾN + VIẾT TẮT KHÔNG BẮT BUỘC (2026-07-24)
+
+Người dùng chê thẳng bản sửa Case-nhờ-vả (round 9e): "tớ cậu" nghe "cực kỳ sến", viết tắt "dc" không cần thiết, yêu cầu đổi qua "tôi/bạn hoặc mình/bạn". Đây là lỗi hiệu chỉnh CỦA CHÍNH SKILL, không phải chuyện gu cá nhân nhất thời — sửa vào catalog:
+
+- **"tớ/cậu" sến:** cặp xưng hô này thật (có dùng ngoài đời, nhất là miền Bắc/tuổi teen) nhưng mang tông thư tình/truyện tuổi teen rõ rệt trong văn viết hiện đại — không phải mặc định an toàn cho "khẩu ngữ chung chung". KHO trước đây liệt "mình/tớ" ngang hàng các cặp khác mà không cảnh báo, dễ áp nhầm. Sửa: đặt "mình/bạn hoặc tôi/bạn" làm mặc định an toàn khi không rõ độ thân, cảnh báo riêng "tớ/cậu" chỉ dùng khi input đã tự xưng vậy.
+- **Viết tắt không bắt buộc:** phát hiện lỗi tư duy ở chính skill — coi B4 (không viết tắt) như phải LUÔN thêm viết tắt mới "đủ casual". Thực ra viết tắt là gia vị, tiểu từ + nhịp buông mới là lõi (đã ghi ở KHO warning cũ về slang trend, giờ áp cùng logic cho viết tắt). Sửa: thêm khái niệm "độ thân của ngữ cảnh" — nhờ vả người không thân thì khẩu ngữ vừa phải, không cần kéo hết cỡ.
+- Bài học chung: mức độ khẩu ngữ không phải nhị phân (trang trọng/khẩu ngữ) mà còn một trục NGẦM thứ hai là độ thân — đã bổ sung câu hướng dẫn vào đầu mục KHO. Fixture Case 14 (bản sửa lại đúng).
+
+## VÒNG 9G — CA DÀY TELL NHẤT: RULE-OF-THREE LẶP 3 LẦN (2026-07-24)
+
+Người dùng đưa đoạn suy ngẫm thiên nhiên/du lịch để test. Đây là ca đậm đặc tell nhất từng gặp: A2 (lặp 2 lần), A25 (nhiều chỗ), A14 (false range), A3, A4, A18, A15 — và đặc biệt **A10 lặp ĐÚNG KHUÔN liệt-kê-3-vế ở 3 đoạn khác nhau liên tiếp** (mở rộng góc nhìn/tái tạo năng lượng/tìm cảm hứng — không gian/âm thanh/không khí — mở rộng hiểu biết/nuôi dưỡng cảm xúc/tạo động lực). Trước giờ A10 chỉ tính theo TỪNG câu; chưa có mức cảnh báo cho việc CẢ BÀI dùng đi dùng lại cùng một khuôn liệt kê ở nhiều đoạn — bổ sung "ca nặng" vào A10: phá ít nhất 2/3 lần theo cách khác nhau (gộp văn xuôi, đổi format liệt kê), giữ tối đa 1 chỗ nguyên khuôn. Đúng tinh thần mở rộng của self-check "lặp khuôn câu" đã thêm ở round 9d (khi đó chỉ xét A14, giờ thấy áp dụng rộng hơn qua A10). Fixture Case 15.
+
 ## NGUỒN
 - https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
 - Cao Xuân Hạo, Trần Thị Tuyết Mai — *Sổ tay sửa lỗi hành văn* (danh từ hóa, hành văn Việt tự nhiên)
