@@ -111,7 +111,30 @@ Kích bởi feedback test: bản humanize post bán hàng bị bóp phẳng thà
 - **Giữ độ dài** — bỏ tell là bỏ *chữ thừa*, không phải bỏ *ý*; nén 5 câu còn 3 là mất chi tiết. → Siết lại LƯU Ý.
 - **Xác nhận B5 ở tầm văn hóa** — có trào lưu người Việt cố tình viết sai chính tả/typo để "chứng minh không dùng AI" (VnExpress, Báo Hà Tĩnh). Củng cố: "sạch bong không lỗi" = tell khẩu ngữ thật.
 
+## VÒNG 7 — ĐỐI CHIẾU KIẾN TRÚC BLADER + TELL PHỔ QUÁT (2026-07-24)
+
+Đọc thẳng bộ gốc `blader/humanizer` (v2.9.1, 33 pattern, 4 nhóm: Content 1–6 / Language-Grammar 7–19 / Communication 20–22 / Filler-Hedging 23–32). Mục tiêu: bám kiến trúc nó, lấp khoảng khuất, nhưng giữ phần đặc thù Việt.
+
+**Bám theo blader (generic, không phải riêng Việt) — đã thêm:**
+- **Chế độ output** (Pasted / File / Embedded) → thêm mục "CHẾ ĐỘ OUTPUT".
+- **Self-audit 2 câu hỏi** ("What makes this obviously AI?" + "Did I invent facts?") → viết lại bước 5 QUY TRÌNH theo đúng 2 câu đó.
+- **"Preserve information, not the shape"** → đổi luật "giữ độ dài" thành "Giữ thông tin, không giữ khuôn" (giữ mọi Ý, được cắt chữ rỗng). Hòa với feedback test-1 (đừng nén mất ý).
+- **No-fabrication** làm luật trung tâm → siết LƯU Ý: không bịa sự kiện/tên/số/nguồn, kể cả khi chống-vô-hồn.
+- Tell phổ quát blader có mà mình thiếu, có thật trong văn AI Việt → thêm:
+  - **A21 mở bài câu hỏi tu từ** ("Bạn đã bao giờ tự hỏi…?") ← blader #32.
+  - **A22 viện thẩm quyền rỗng** ("Theo các chuyên gia / nghiên cứu đã chỉ ra" không nguồn) ← blader #24.
+  - **A23 lộ giọng trợ lý AI** ("Là một mô hình ngôn ngữ", "Tính đến thời điểm kiến thức của tôi", "Câu hỏi rất hay!") ← blader #20–22. Đây là output ChatGPT tiếng Việt verbatim.
+  - **A24 bôi đậm vô tội vạ** (in đậm cụm giữa câu hàng loạt) ← blader #13.
+- Enrich: A3 += signposting "Đầu tiên/Thứ hai/Cuối cùng"; A14 += false range "từ… cho đến…".
+
+**KHÔNG bám (blader có nhưng đặc thù tiếng Anh, vô nghĩa với Việt):** superficial -ing analyses (Việt không có gerund -ing), copula avoidance (né "is"), title case, hyphenated pairs, curly quotation marks, diff-anchored writing.
+
+**GIỮ phần Việt-riêng (blader không có):** register trang trọng/khẩu ngữ, dialect Bắc/Trung/Nam, KHO tiểu từ+viết tắt+xưng hô, tell khẩu ngữ B1–B9, định dạng theo register. (CHỐNG VÔ HỒN ≈ "PERSONALITY AND SOUL" của blader — trùng ý, giữ.)
+
+Tổng: **33 tell** (24 trang trọng + 9 khẩu ngữ) — cùng con số 33 với blader nhưng nội dung Việt hóa.
+
 ## NGUỒN
+- https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
 - https://help.brandsvietnam.com/vi/article/dau-hieu-nhan-biet-noi-dung-duoc-viet-boi-ai-3zy07d/
 - https://npm.vn/cau-truc-bai-viet-ban-hang-chuan-tren-facebook/ (cấu trúc post bán hàng thật)
 - https://careers.langmaster.edu.vn/goi-y-12-mau-bai-dang-ban-hang-online-tren-facebook-hieu-qua (mẫu post + quy tắc xuống dòng/emoji)

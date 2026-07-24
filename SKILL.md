@@ -83,7 +83,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 ### Bảng tra nhanh (audit)
 
-**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque
+**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque · A21 mở bài câu hỏi tu từ · A22 thẩm quyền rỗng · A23 lộ giọng AI · A24 bôi đậm vô tội vạ
 
 **Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ · B9 không chèn tiếng Anh
 
@@ -101,7 +101,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Sản phẩm bền, đẹp, giá hợp lý mà dùng lại tiện."
 
 **A3. Nối đoạn máy móc** `[trang trọng]`
-*Lộ vì:* dùng "Hơn nữa / Bên cạnh đó / Trên thực tế / Tuy nhiên," như keo dán công nghiệp ở đầu mỗi câu. Cùng họ: đại từ chỉ định "**điều này / việc này / chính vì vậy / từ đó / đây là lý do**" lặp làm keo nối — ChatGPT rất hay lặp "điều này/việc này".
+*Lộ vì:* dùng "Hơn nữa / Bên cạnh đó / Trên thực tế / Tuy nhiên," như keo dán công nghiệp ở đầu mỗi câu. Cùng họ: (a) đại từ chỉ định "**điều này / việc này / chính vì vậy / từ đó / đây là lý do**" lặp làm keo nối — ChatGPT rất hay lặp "điều này/việc này"; (b) đánh số cứng "**Đầu tiên… / Thứ hai… / Cuối cùng…**", "Trong phần này chúng ta sẽ…" (signposting máy móc).
 - ❌ "Hơn nữa, điều này còn giúp tiết kiệm chi phí. Bên cạnh đó, việc này cải thiện hiệu suất. Chính vì vậy, đây là lựa chọn tối ưu."
 - ✅ "Cách này tiết kiệm chi phí và chạy nhanh hơn, nên đáng cân nhắc."
 
@@ -157,7 +157,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Tập đều thì ngủ ngon hơn, tinh thần đỡ căng, leo mấy tầng cầu thang không còn thở dốc."
 
 **A14. Calque tiếng Anh** `[cả hai]`
-*Lộ vì:* dịch sát cấu trúc Anh: "not X but Y" → "không phải X mà là Y", "this is why" → "đó là lý do tại sao", "when it comes to" → "khi nói đến", "this means" → "điều này có nghĩa là", "one of the most" → "một trong những… nhất".
+*Lộ vì:* dịch sát cấu trúc Anh: "not X but Y" → "không phải X mà là Y", "this is why" → "đó là lý do tại sao", "when it comes to" → "khi nói đến", "this means" → "điều này có nghĩa là", "one of the most" → "một trong những… nhất", "from X to Y" → "từ X cho đến Y" (dải giả — ghép hai thứ không cùng thang thành một "khoảng").
 - ❌ "Đây không phải là về tiền bạc, mà là về đam mê. Và đó chính là lý do tại sao chúng ta làm điều này."
 - ✅ "Chúng tôi làm vì đam mê chứ không phải vì tiền. Đơn giản vậy thôi."
 - ❌ "Khi nói đến hiệu suất, đây là một trong những công cụ tốt nhất. Điều này có nghĩa là bạn sẽ hài lòng."
@@ -196,6 +196,32 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* AI mở-đóng email bằng khuôn dịch từ tiếng Anh, không ai người Việt viết vậy: "Tôi hy vọng email này tìm thấy bạn" (I hope this email finds you well), "Đừng ngần ngại liên hệ" (don't hesitate to contact).
 - ❌ "Kính gửi Anh/Chị, Tôi hy vọng email này tìm thấy bạn trong trạng thái tốt. … Đừng ngần ngại liên hệ nếu có bất kỳ câu hỏi nào. Trân trọng."
 - ✅ "Dạ chào anh/chị, em có việc này muốn trao đổi. … Anh/chị cần gì thêm cứ nhắn em ạ. Em cảm ơn anh/chị."
+
+*(A21–A24 là các tell phổ quát của văn AI — đối chiếu bộ blader/humanizer, chỉnh cho tiếng Việt.)*
+
+**A21. Mở bài câu hỏi tu từ** `[trang trọng]`
+*Lộ vì:* AI hay mở bằng câu hỏi tu từ khách sáo rồi tự trả lời, kiểu blog SEO rập khuôn.
+- ❌ "Bạn đã bao giờ tự hỏi tại sao có những người luôn thành công trong công việc? Câu trả lời nằm ở thói quen của họ."
+- ✅ "Người làm việc giỏi thường hơn nhau ở thói quen, không phải may mắn."
+- *Bắt gặp thật (blog SEO):* mở bài "Bạn có biết rằng…?", "Đã bao giờ bạn cảm thấy…?" nhan nhản ở bài chuẩn SEO.
+
+**A22. Viện thẩm quyền chung chung** `[trang trọng]`
+*Lộ vì:* dẫn "các chuyên gia / nhiều nghiên cứu" mà không tên, không nguồn, không số — nghe uy tín giả.
+- ❌ "Theo các chuyên gia, việc uống đủ nước mỗi ngày mang lại vô số lợi ích. Nhiều nghiên cứu đã chỉ ra điều này."
+- ✅ "Uống đủ nước thì da đỡ khô, đầu óc tỉnh hơn — mấy hôm quên uống là thấy rõ."
+- *Lưu ý:* nếu bản gốc CÓ nguồn/số thật thì giữ; chỉ bỏ khi là "thẩm quyền rỗng" không dẫn được về đâu. Không được bịa nguồn để thay.
+
+**A23. Lộ giọng trợ lý AI** `[cả hai]`
+*Lộ vì:* sót lại giọng chatbot — tự xưng là AI, rào "tính đến thời điểm", hoặc nịnh người hỏi.
+- ❌ "Là một trợ lý AI, tôi không có khả năng cảm nhận, nhưng đây quả là một câu hỏi tuyệt vời! Tính đến thời điểm kiến thức của tôi, thông tin có thể chưa được cập nhật."
+- ✅ "Cái này mình chưa chắc số mới nhất, nhưng theo mình biết thì…"
+- *Gồm:* "Là một mô hình ngôn ngữ…", "Tôi chỉ là một AI…", "Câu hỏi rất hay!", "Hy vọng điều này hữu ích!", "Nếu bạn cần thêm, cứ cho tôi biết nhé" — bỏ hết.
+
+**A24. Bôi đậm vô tội vạ** `[cả hai]`
+*Lộ vì:* AI in đậm hàng loạt cụm giữa câu để "nhấn", rải khắp đoạn như đánh dấu highlight máy.
+- ❌ "Điều **quan trọng nhất** khi học là **sự kiên trì**, bên cạnh đó **phương pháp đúng** cũng **đóng vai trò then chốt**."
+- ✅ "Học thì kiên trì là chính, thêm phương pháp đúng nữa là ổn."
+- *Quy tắc:* input trơn (không bôi đậm) → output cũng trơn. Chỉ giữ in đậm nếu input dùng có chủ đích và thưa (1–2 chỗ), không rải mỗi câu.
 
 ### NHÓM B — Register KHẨU NGỮ
 
@@ -292,15 +318,25 @@ Rồi viết lại **theo giọng của họ**, không chỉ bỏ tell mà còn 
 
 1. **Draft** — đọc input, nhận diện register.
 2. **Audit** — quét theo CATALOG (nhóm tương ứng register), đánh dấu từng tell.
-3. **Rewrite** — sửa từng tell, giữ nghĩa + độ dài + dialect.
+3. **Rewrite** — sửa từng tell, giữ nghĩa + đủ ý + dialect.
 4. **Chống vô hồn** — kiểm nhịp/quan điểm/chi tiết.
-5. **Tự kiểm** — quét lại chính bản vừa sửa: có vô tình tạo tell MỚI không? Hay vấp: chèn em-dash (A8) khi nối ý, lỡ dựng rule-of-three (A10) mới, hoặc **tự chế thêm emoji/icon** input không có (thành B2 emoji template). Bản sửa phải sạch tell như bản gốc và **không thêm gì input không có** — không vá tell này bằng tell khác.
-6. **Final** — chỉ trả text đã humanize. Không kèm danh sách tell, không giải thích (trừ khi người dùng hỏi "sửa gì").
+5. **Tự kiểm** — đọc lại bản vừa sửa, tự hỏi 2 câu (mượn của blader):
+   - **(1) Chỗ nào còn lộ AI?** Soát cả tell MỚI mình vừa vô tình tạo: chèn em-dash (A8) khi nối ý, lỡ dựng rule-of-three (A10), tự chế emoji input không có (B2). Không vá tell này bằng tell khác.
+   - **(2) Có bịa thêm gì không?** Ý, số, tên, nguồn nào không có trong input thì bỏ. Không thêm gì input không có.
+6. **Final** — trả text theo đúng CHẾ ĐỘ OUTPUT (xem dưới). Mặc định chỉ bản đã humanize, không kèm danh sách tell (trừ khi người dùng hỏi "sửa gì").
+
+## CHẾ ĐỘ OUTPUT
+
+Trả kết quả theo cách người dùng gọi skill (mượn "invocation mode" của blader):
+
+- **Dán text thẳng** (người dùng paste đoạn cần sửa vào chat) → trả **bản đã humanize**. Nếu người dùng hỏi "sửa gì / đổi gì" thì mới kèm danh sách tell; mặc định chỉ text sạch.
+- **Trỏ vào file** (sửa file trên đĩa) → dùng Edit sửa tại chỗ, rồi **báo tóm tắt đã đổi gì**, KHÔNG in lại toàn văn ra chat.
+- **Nhúng trong tác vụ khác** (skill/agent khác gọi tới) → chỉ trả text cuối, không rào đón, không danh sách tell, không lời dẫn.
 
 ## LƯU Ý
 
-- **Không đổi nghĩa, không bịa.** Humanize là đổi *cách nói*, không đổi *nội dung*.
-- **Giữ độ dài.** Input 3 đoạn thì output 3 đoạn; input 5 câu thì output cũng cỡ đó — đừng nén 5 câu còn 3. Bỏ tell là bỏ *chữ thừa*, không phải bỏ *ý*. Nén cụt là mất chi tiết và làm văn cộc.
+- **Không đổi nghĩa, không bịa.** Humanize là đổi *cách nói*, không đổi *nội dung*. Tuyệt đối không thêm sự kiện, tên, con số, ngày tháng, trích dẫn hay nguồn không có trong bản gốc — kể cả khi "chống vô hồn" cần chi tiết, chỉ được rút chi tiết từ chính input, không dựng mới.
+- **Giữ thông tin, không giữ khuôn.** Giữ đủ MỌI ý của bản gốc — đừng bỏ ý nào (5 lời cảm ơn khác nhau thì đừng gộp còn 2). Được phép cắt *chữ rỗng* và siết đoạn lê thê, nhưng không cắt *nội dung*. Bỏ tell ≠ bỏ ý.
 - **Đừng humanize quá tay.** Một câu sạch sẵn thì để yên — không phải câu nào cũng cần nhét tiểu từ.
 - **Không tự chế trang trí.** Đừng thêm emoji/icon/hashtag/VIẾT HOA mà input không có. Trang trí bịa ra vừa là thêm nội dung, vừa dễ thành tell B2 (emoji template). Bám đúng mức trang trí của input.
 - **Register là trên hết.** Sai tông (formal thành slang) còn lộ hơn cả để nguyên tell.

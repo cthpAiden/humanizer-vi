@@ -16,7 +16,7 @@ Mấy công cụ "humanize" hiện tại đều nhắm tiếng Anh. Dấu hiệu
 ## Nó làm gì
 
 - Tự nhận diện văn phong input (trang trọng hay khẩu ngữ) rồi humanize **đúng tông** đó.
-- Quét gần 30 dấu hiệu (marketing, nghị luận học đường, email, văn dịch, comment): mở bài sáo rỗng, cụm chuyển đoạn máy móc ("Hơn nữa", "Bên cạnh đó"), buzzword rỗng ("đóng vai trò quan trọng"), "một cách + tính từ", em-dash lạm dụng, rule-of-three, calque tiếng Anh, thiếu tiểu từ cuối câu (nha/á/luôn), xưng hô vô hồn, nhịp câu quá đều...
+- Quét hơn 30 dấu hiệu (33: 24 trang trọng + 9 khẩu ngữ — marketing, nghị luận học đường, email, văn dịch, comment): mở bài sáo rỗng, cụm chuyển đoạn máy móc ("Hơn nữa", "Bên cạnh đó"), buzzword rỗng ("đóng vai trò quan trọng"), "một cách + tính từ", em-dash lạm dụng, rule-of-three, calque tiếng Anh, thiếu tiểu từ cuối câu (nha/á/luôn), xưng hô vô hồn, nhịp câu quá đều...
 - Giữ nguyên nghĩa và độ dài. Chỉ đổi *cách nói*, không đổi *nội dung*.
 - Trả về text đã sạch, gọn.
 
@@ -69,7 +69,7 @@ humanizer-vi/
 
 ## Nguồn cảm hứng
 
-- Ý tưởng "humanizer skill" lấy cảm hứng từ các bộ humanizer mã nguồn mở (blades) và trang **"Signs of AI writing"** của Wikipedia (WikiProject AI Cleanup).
+- Ý tưởng "humanizer skill" và kiến trúc (Nhiệm vụ → Voice Calibration → catalog theo nhóm → Draft/Audit/Final → chế độ output) bám theo bộ [blader/humanizer](https://github.com/blader/humanizer), cùng trang **"Signs of AI writing"** của Wikipedia (WikiProject AI Cleanup). Phần register khẩu ngữ, dialect, và kho tiểu từ/viết tắt là bổ sung riêng cho tiếng Việt.
 - Phần khung dấu hiệu văn AI tiếng Việt dựa trên nghiên cứu thực tế — chi tiết nguồn trong [`docs/research-notes.md`](docs/research-notes.md), gồm cả paper **ViDetect** (Vietnamese AI Generated Text Detection).
 
 ## License
