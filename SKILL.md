@@ -57,11 +57,21 @@ Nếu lẫn lộn: **giữ đúng mức trang trọng của input**, đừng t�
 
 Nếu input có giọng vùng miền (Bắc/Trung/Nam) — ví dụ "mô/tê/răng/rứa", "chi rứa", "nghen", "hen" — **giữ nguyên chất đó**, đừng chuẩn hóa về giọng Bắc.
 
+- Input (giọng Trung): "Cái ni hay quá hè, mi thử chưa?"
+- ❌ Sửa SAI (kéo về Bắc): "Cái này hay quá nhỉ, cậu thử chưa?"
+- ✅ Sửa ĐÚNG (giữ Trung): "Cái ni hay thiệt hè, mi thử chưa rứa?"
+
 ---
 
 ## CATALOG DẤU HIỆU VĂN AI
 
 Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang trọng]` / `[khẩu ngữ]` / `[cả hai]`.
+
+### Bảng tra nhanh (audit)
+
+**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo
+
+**Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt
 
 ### NHÓM A — Register TRANG TRỌNG
 
@@ -134,6 +144,11 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* dịch sát cấu trúc Anh: "not X but Y", "this is why", "when it comes to".
 - ❌ "Đây không phải là về tiền bạc, mà là về đam mê. Và đó chính là lý do tại sao chúng ta làm điều này."
 - ✅ "Chúng tôi làm vì đam mê chứ không phải vì tiền. Đơn giản vậy thôi."
+
+**A15. Lặp ý, diễn giải vòng vo** `[trang trọng]`
+*Lộ vì:* nói đi nói lại cùng một ý bằng từ khác; đoạn sau nhắc lại đoạn trước mà không thêm gì mới.
+- ❌ "Học ngoại ngữ rất quan trọng. Việc biết thêm một ngôn ngữ mang lại nhiều lợi ích. Nói cách khác, thành thạo ngoại ngữ giúp ích rất nhiều cho bạn."
+- ✅ "Biết thêm một ngoại ngữ mở ra việc làm, bạn mới, và cả phim không cần phụ đề."
 
 ### NHÓM B — Register KHẨU NGỮ
 

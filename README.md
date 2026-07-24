@@ -16,7 +16,7 @@ Mấy công cụ "humanize" hiện tại đều nhắm tiếng Anh. Dấu hiệu
 ## Nó làm gì
 
 - Tự nhận diện văn phong input (trang trọng hay khẩu ngữ) rồi humanize **đúng tông** đó.
-- Quét ~21 dấu hiệu: mở bài sáo rỗng, cụm chuyển đoạn máy móc ("Hơn nữa", "Bên cạnh đó"), buzzword rỗng ("đóng vai trò quan trọng"), "một cách + tính từ", em-dash lạm dụng, rule-of-three, calque tiếng Anh, thiếu tiểu từ cuối câu (nha/á/luôn), xưng hô vô hồn, nhịp câu quá đều...
+- Quét hơn 20 dấu hiệu: mở bài sáo rỗng, cụm chuyển đoạn máy móc ("Hơn nữa", "Bên cạnh đó"), buzzword rỗng ("đóng vai trò quan trọng"), "một cách + tính từ", em-dash lạm dụng, rule-of-three, calque tiếng Anh, thiếu tiểu từ cuối câu (nha/á/luôn), xưng hô vô hồn, nhịp câu quá đều...
 - Giữ nguyên nghĩa và độ dài. Chỉ đổi *cách nói*, không đổi *nội dung*.
 - Trả về text đã sạch, gọn.
 
@@ -27,13 +27,13 @@ Skill này là một thư mục. Đặt nó vào `~/.claude/skills/`:
 **Clone thẳng vào skills:**
 
 ```bash
-git clone https://github.com/<user>/humanizer-vi.git ~/.claude/skills/humanizer-vi
+git clone https://github.com/cthpAiden/humanizer-vi.git ~/.claude/skills/humanizer-vi
 ```
 
 **Windows (PowerShell):**
 
 ```powershell
-git clone https://github.com/<user>/humanizer-vi.git "$env:USERPROFILE\.claude\skills\humanizer-vi"
+git clone https://github.com/cthpAiden/humanizer-vi.git "$env:USERPROFILE\.claude\skills\humanizer-vi"
 ```
 
 Hoặc copy tay cả thư mục vào `~/.claude/skills/humanizer-vi/`. Miễn là `SKILL.md` nằm trong đó.
