@@ -69,7 +69,9 @@ Nếu input có giọng vùng miền (Bắc/Trung/Nam) — ví dụ "mô/tê/ră
 
 Humanize không chỉ đổi chữ, còn giữ **cách trình bày** đúng register. Sai định dạng lộ y như sai tông. Đừng mặc định "bỏ cấu trúc = người hơn" — định dạng phải đi theo register:
 
-- **Post mạng xã hội / bán hàng:** người bán thật KHÔNG viết một khối văn xuôi liền. Họ xuống dòng ngắn (2–3 dòng một đoạn), chừa dòng trống giữa đoạn, emoji thưa đầu đoạn, VIẾT HOA phần nhấn (ưu đãi, giá, GIẢM), CTA nằm riêng một dòng. Bóp một post bán hàng thành cục văn xuôi là làm nó giống AI HƠN. Giữ (hoặc khôi phục) nhịp thị giác đó, chỉ bỏ buzzword/calque trong từng dòng.
+- **Post mạng xã hội / bán hàng:** người thật KHÔNG viết một khối văn xuôi liền — họ xuống dòng ngắn (2–3 dòng một đoạn), chừa dòng trống, CTA riêng một dòng. Giữ **nhịp xuống dòng** đó, đừng bóp phẳng thành cục.
+  - ⚠️ **ĐỪNG tự chế thêm emoji/icon/hashtag** vào bản không có sẵn. Emoji rải đều mỗi dòng (✨…✨…👉) chính là tell **B2** (emoji template) — nhét vào còn lộ AI HƠN. Thêm emoji cũng là thêm nội dung không có trong input.
+  - Quy tắc: **soi mức trang trí của input rồi bám đúng mức đó.** Input trơn (không emoji) → output cũng trơn, chỉ chỉnh nhịp xuống dòng. Input đã có emoji → giữ nhưng tỉa cho lệch, đừng rải đều. VIẾT HOA để nhấn cũng chỉ khi input đã dùng.
 - **Bài viết / báo cáo trang trọng:** ngược lại — nếu AI bổ mọi thứ thành bullet chung chung (A9), gộp lại thành đoạn văn có mạch. Đúng định dạng ở đây là văn liền.
 - **Chat / comment:** ngắn, viết thường được, xuống dòng tự nhiên; đừng canh lề chỉn chu.
 
@@ -300,4 +302,5 @@ Rồi viết lại **theo giọng của họ**, không chỉ bỏ tell mà còn 
 - **Không đổi nghĩa, không bịa.** Humanize là đổi *cách nói*, không đổi *nội dung*.
 - **Giữ độ dài.** Input 3 đoạn thì output 3 đoạn; input 5 câu thì output cũng cỡ đó — đừng nén 5 câu còn 3. Bỏ tell là bỏ *chữ thừa*, không phải bỏ *ý*. Nén cụt là mất chi tiết và làm văn cộc.
 - **Đừng humanize quá tay.** Một câu sạch sẵn thì để yên — không phải câu nào cũng cần nhét tiểu từ.
+- **Không tự chế trang trí.** Đừng thêm emoji/icon/hashtag/VIẾT HOA mà input không có. Trang trí bịa ra vừa là thêm nội dung, vừa dễ thành tell B2 (emoji template). Bám đúng mức trang trí của input.
 - **Register là trên hết.** Sai tông (formal thành slang) còn lộ hơn cả để nguyên tell.
