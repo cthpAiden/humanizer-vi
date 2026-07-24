@@ -91,3 +91,16 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau:**
 > Người Việt trọng chuyện biết ơn từ lâu, kiểu "ăn quả nhớ kẻ trồng cây". Biết ơn làm mình sống tử tế hơn, nghĩ cho người khác hơn. Nên đừng để nó thành lời nói suông — gọi cho ba mẹ tối nay cũng là một cách.
+
+---
+
+## Case 8 — Email công việc (trang trọng)
+
+**Tells:** A20 (email calque), A19 (bị động thừa "được…bởi")
+*Mở email kiểu "Tôi hy vọng email này tìm thấy bạn" là dịch sượng từ "I hope this email finds you well" — dấu hiệu AI rõ.*
+
+❌ **Trước:**
+> Kính gửi Anh/Chị, Tôi hy vọng email này tìm thấy bạn trong trạng thái tốt. Báo cáo đã được hoàn thành bởi đội ngũ của chúng tôi. Đừng ngần ngại liên hệ nếu có bất kỳ câu hỏi nào. Trân trọng.
+
+✅ **Sau:**
+> Dạ chào anh/chị, em gửi anh/chị bản báo cáo bên em vừa làm xong. Anh/chị xem có chỗ nào cần chỉnh thì nhắn em nhé. Em cảm ơn ạ.

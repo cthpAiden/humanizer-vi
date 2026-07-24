@@ -73,7 +73,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 ### Bảng tra nhanh (audit)
 
-**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo
+**Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo · A16 mở bài văn mẫu · A17 kết bài kêu gọi · A18 động từ văn học sáo · A19 bị động thừa · A20 email calque
 
 **Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ
 
@@ -147,9 +147,11 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Tập đều thì ngủ ngon hơn, tinh thần đỡ căng, leo mấy tầng cầu thang không còn thở dốc."
 
 **A14. Calque tiếng Anh** `[cả hai]`
-*Lộ vì:* dịch sát cấu trúc Anh: "not X but Y", "this is why", "when it comes to".
+*Lộ vì:* dịch sát cấu trúc Anh: "not X but Y" → "không phải X mà là Y", "this is why" → "đó là lý do tại sao", "when it comes to" → "khi nói đến", "this means" → "điều này có nghĩa là", "one of the most" → "một trong những… nhất".
 - ❌ "Đây không phải là về tiền bạc, mà là về đam mê. Và đó chính là lý do tại sao chúng ta làm điều này."
 - ✅ "Chúng tôi làm vì đam mê chứ không phải vì tiền. Đơn giản vậy thôi."
+- ❌ "Khi nói đến hiệu suất, đây là một trong những công cụ tốt nhất. Điều này có nghĩa là bạn sẽ hài lòng."
+- ✅ "Về hiệu suất, đây thuộc hàng tốt nhất. Tức là bạn sẽ ưng."
 
 **A15. Lặp ý, diễn giải vòng vo** `[trang trọng]`
 *Lộ vì:* nói đi nói lại cùng một ý bằng từ khác; đoạn sau nhắc lại đoạn trước mà không thêm gì mới.
@@ -172,6 +174,18 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* nhồi động từ "nuôi dưỡng / bồi đắp / vun đắp / thắp sáng / gìn giữ" + ẩn dụ mòn "dòng suối trong xanh", "ngọn lửa", "hành trang".
 - ❌ "Lòng biết ơn nuôi dưỡng tâm hồn, bồi đắp nhân cách và thắp sáng những giá trị tốt đẹp."
 - ✅ "Biết ơn khiến người ta sống tử tế hơn, nghĩ cho người khác hơn."
+
+*(A19–A20 là mùi dịch máy / dịch từ tiếng Anh — hay gặp ở tin công nghệ, email, tài liệu dịch.)*
+
+**A19. Bị động thừa "được / bị … bởi"** `[trang trọng]`
+*Lộ vì:* tiếng Việt chuộng chủ động; văn dịch/AI bê nguyên bị động tiếng Anh ("được + động từ + bởi").
+- ❌ "Sản phẩm được phát triển bởi đội ngũ kỹ sư và được tin dùng bởi hàng nghìn khách hàng."
+- ✅ "Đội ngũ kỹ sư phát triển sản phẩm này; hàng nghìn khách hàng đang tin dùng."
+
+**A20. Email / công sở dịch calque** `[trang trọng]`
+*Lộ vì:* AI mở-đóng email bằng khuôn dịch từ tiếng Anh, không ai người Việt viết vậy: "Tôi hy vọng email này tìm thấy bạn" (I hope this email finds you well), "Đừng ngần ngại liên hệ" (don't hesitate to contact).
+- ❌ "Kính gửi Anh/Chị, Tôi hy vọng email này tìm thấy bạn trong trạng thái tốt. … Đừng ngần ngại liên hệ nếu có bất kỳ câu hỏi nào. Trân trọng."
+- ✅ "Dạ chào anh/chị, em có việc này muốn trao đổi. … Anh/chị cần gì thêm cứ nhắn em ạ. Em cảm ơn anh/chị."
 
 ### NHÓM B — Register KHẨU NGỮ
 
