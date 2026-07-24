@@ -158,6 +158,10 @@ Kích bởi `/goal` "loop tìm thêm case, coi còn thiếu sót gì ko". Test 3
 
 Tổng sau vòng 9: **36 tell** (27 trang trọng A1–A27 + 9 khẩu ngữ B1–B9).
 
+**Thêm cùng vòng — kiểm tra "báo cáo tổng kết"/biên bản công việc:** dogfood một đoạn báo cáo tháng kiểu AI, dính A1/A3/A4/A6/A7/A25 — toàn bộ đã có sẵn trong catalog, không lọt tell nào. Domain này an toàn, không cần sửa gì.
+
+**Thêm cùng vòng — hụt trong KHO, không phải hụt tell:** test một đoạn nhắn tin phàn nàn/bực mình (khẩu ngữ, cảm xúc TIÊU CỰC) thì phát hiện KHO VĂN-NGƯỜI chỉ có mục "biến âm dễ thương" (kéo dài kiểu vui — trờiii, đỉnhhh) mà thiếu hẳn phần tương ứng cho lúc GIẬN/bực (lặp từ nhấn, dấu câu dồn dập, viết hoa để hét). Đây không phải AI tell mới (không cần lên tên B10) mà là lỗ hổng trong bộ đồ nghề KHO — sửa bằng cách thêm một dòng đối xứng, không phải thêm tell. Fixture Case 12.
+
 ## NGUỒN
 - https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
 - Cao Xuân Hạo, Trần Thị Tuyết Mai — *Sổ tay sửa lỗi hành văn* (danh từ hóa, hành văn Việt tự nhiên)

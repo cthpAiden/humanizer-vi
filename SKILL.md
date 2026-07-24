@@ -311,6 +311,7 @@ Khi humanize sang khẩu ngữ, rút từ đây — **dùng vừa phải, đúng
 - **Chửi nhẹ / rề:** vl/vcl, vãi, đéo, dkm/dcm, hãm, dở hơi — **CHỈ** khi input đã có giọng thô sẵn; đừng tự nhét vào comment lịch sự
 - **Chèn tiếng Anh (Gen-Z):** vibe, mood, real, cringe, toxic, deadline, healing — trộn tự nhiên khi input đã trẻ hóa
 - **Biến âm dễ thương / kéo dài (Gen-Z, dễ lỗi thời):** khum (không), gòy (rồi), iu (yêu), z (vậy), "đỉnhhh", "trờiii" — chỉ dùng khi input đã có giọng này
+- **Nhấn cảm xúc mạnh khi bực/giận** (khác kiểu cute ở trên): lặp từ ("đợi hoài đợi hoài", "trễ trễ trễ"), dấu hỏi-than dồn dập ("?!?!", "sao vậy trời???"), VIẾT HOA vài chữ để "hét" lên — chỉ dùng khi input đã bực/gắt sẵn, đừng nhét vào input đang bình thường
 
 > ⚠️ **Slang trend chớp nhoáng** (gét gô, chằm Zn, phim điện ảnh, thắng đời, sít rịt...) lỗi thời nhanh — chỉ dùng khi input đã có sẵn giọng đó. Lõi bền là **tiểu từ + viết tắt + nhịp lộn xộn**, không phải slang hot.
 

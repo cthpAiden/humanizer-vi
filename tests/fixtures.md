@@ -154,3 +154,16 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau:**
 > Tôi thích làm việc nhóm và chủ động hỏi ngay khi chưa rõ việc. Việc gấp tôi vẫn cố làm cho xong đúng hạn, và sẵn sàng học thêm cái mới khi công việc cần.
+
+---
+
+## Case 12 — Nhắn tin phàn nàn shop (khẩu ngữ, cảm xúc bực)
+
+**Tells:** B8 (đủ chủ ngữ), B1 (thiếu tiểu từ), B7 (nhịp quá mượt) + nhấn cảm xúc mạnh (mới, xem KHO)
+*Điểm chính: AI viết than phiền mà vẫn lịch sự đều đều, mất chất "đang bực thật". Người thật khi giận hay lặp từ, dồn dấu câu, viết hoa vài chữ để nhấn — khác hẳn kiểu kéo dài dễ thương (Gen-Z vui) đã có sẵn trong KHO.*
+
+❌ **Trước:**
+> Trời ơi hôm nay mình gặp chuyện bực mình ghê. Mình đặt hàng mà giao trễ tận 3 ngày so với dự kiến. Mình đã nhắn shop hỏi nhưng đợi mãi mới thấy trả lời. Mình thấy khá thất vọng về dịch vụ lần này.
+
+✅ **Sau:**
+> Trời ơi bực ghê, đặt hàng mà trễ những 3 ngày lận. Nhắn shop hỏi thì đợi hoài đợi hoài mới thấy rep. THẤT VỌNG thiệt sự luôn á.
