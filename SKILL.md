@@ -71,7 +71,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 
 **Trang trọng:** A1 mở bài bối cảnh · A2 không chỉ…mà còn · A3 nối đoạn máy móc · A4 kết bài khuôn · A5 buzzword · A6 từ hoa mỹ · A7 một cách+tính từ · A8 em-dash · A9 bullet vô tội vạ · A10 rule-of-three · A11 câu đều nhịp · A12 hedging thừa · A13 chung chung · A14 calque · A15 lặp ý vòng vo
 
-**Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt
+**Khẩu ngữ:** B1 thiếu tiểu từ · B2 emoji template · B3 cảm thán giả trân · B4 không viết tắt · B5 sạch không lỗi · B6 xưng hô vô hồn · B7 nhịp quá mượt · B8 luôn đủ chủ ngữ
 
 ### NHÓM A — Register TRANG TRỌNG
 
@@ -79,6 +79,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* AI mở bằng khung cảnh chung chung to tát thay vì vào thẳng vấn đề.
 - ❌ "Trong bối cảnh công nghệ đang phát triển không ngừng, trí tuệ nhân tạo ngày càng đóng vai trò quan trọng trong đời sống."
 - ✅ "AI đang len vào nhiều mặt của đời sống, từ ứng dụng ngân hàng đến hộp thư của bạn."
+- *Bắt gặp thật (blog SEO):* "Trong thời đại số hóa, người dùng có xu hướng tìm kiếm thông tin qua Google"; "Trong bối cảnh cạnh tranh online ngày càng khốc liệt…"
 
 **A2. Cặp cấu trúc "không chỉ… mà còn…"** `[trang trọng]`
 *Lộ vì:* khuôn song song lặp đi lặp lại, nghe như quảng cáo.
@@ -109,6 +110,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 *Lộ vì:* "một cách hiệu quả / dễ dàng / nhanh chóng / toàn diện" thay cho trạng từ gọn.
 - ❌ "Bạn có thể hoàn thành công việc một cách hiệu quả và nhanh chóng."
 - ✅ "Bạn hoàn thành công việc nhanh và gọn."
+- *Bắt gặp thật:* cụm "một cách tự nhiên / một cách khéo léo / một cách rõ ràng" lặp trong cùng một bài blog SEO.
 
 **A8. Em-dash / gạch ngang lạm dụng** `[cả hai]`
 *Lộ vì:* gạch ngang dài chèn 2-3 lần trong một đoạn ngắn.
@@ -189,6 +191,11 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Tôi nghĩ rằng điều bạn nói là hoàn toàn chính xác và tôi hoàn toàn đồng tình."
 - ✅ "Chuẩn. Ý đó đúng thật đó."
 
+**B8. Lúc nào cũng đủ chủ ngữ** `[khẩu ngữ]`
+*Lộ vì:* khẩu ngữ tiếng Việt hay lược chủ ngữ; AI thì câu nào cũng "Tôi/Mình + động từ" đầy đủ. *(Quan sát thật trên Voz: "ko làm gì cả", "Thế là nó bỏ đi luôn" — chủ ngữ bị bỏ.)*
+- ❌ "Tôi không làm gì cả, tôi chỉ vào để xem thôi. Tôi thấy cũng bình thường."
+- ✅ "Ko làm gì, vào xem cho vui thôi. Thấy cũng thường."
+
 ---
 
 ## KHO VĂN-NGƯỜI (bộ đồ nghề cho vế "sau")
@@ -196,9 +203,11 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 Khi humanize sang khẩu ngữ, rút từ đây — **dùng vừa phải, đúng ngữ cảnh**, đừng nhồi:
 
 - **Tiểu từ cuối câu:** nha, nhé, nhỉ, á, à, ạ, đó, luôn, ha, ý, vậy, cơ, mà, thôi, đấy, ấy
-- **Viết tắt net:** ko/k (không), dc/đc (được), r (rồi), vs (với), ntn (như thế nào), j (gì), bh (bao giờ), mn (mọi người), ae (anh em), bn (bạn)
-- **Xưng hô net:** t/m (tao/mày), mình/tớ, ông/bà, fen, thớt (chủ thread), các bác
+- **Viết tắt net:** ko/k (không), dc/đc (được), r (rồi), vs (với), ntn (như thế nào), j (gì), bh (bao giờ), mn (mọi người), ae (anh em), bn (bạn), vc/vch (vợ chồng)
+- **Xưng hô net:** t/m (tao/mày), mình/tớ, ông/bà, fen, thớt (chủ thread), các bác, nó (ngôi 3), vozer (tùy cộng đồng)
 - **Slang bền** (ít lỗi thời): vãi, xịn, gắt, đỉnh, gáy, cà khịa, ăn hành, real, u là trời
+- **Lược chủ ngữ:** bỏ "tôi/mình" đầu câu khi ngữ cảnh đã rõ — "Thấy cũng thường", "Ko đi đâu"
+- **Chửi nhẹ / rề:** vl/vcl, vãi, đéo, dkm/dcm, hãm, dở hơi — **CHỈ** khi input đã có giọng thô sẵn; đừng tự nhét vào comment lịch sự
 
 > ⚠️ **Slang trend chớp nhoáng** (gét gô, chằm Zn, phim điện ảnh, thắng đời, sít rịt...) lỗi thời nhanh — chỉ dùng khi input đã có sẵn giọng đó. Lõi bền là **tiểu từ + viết tắt + nhịp lộn xộn**, không phải slang hot.
 

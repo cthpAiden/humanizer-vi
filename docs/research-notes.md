@@ -58,8 +58,28 @@ Mục đích: nguyên liệu cho catalog tells trong SKILL.md. Chưa phải bả
 - Phần "chống vô hồn": sạch tell nhưng đều đơ vẫn lộ — cố ý cho nhịp lệch, thêm tiểu từ/ý kiến.
 - CẢNH BÁO: casual slang lỗi thời nhanh → tách nhóm slang ra chỗ dễ cập nhật; tiểu từ + viết tắt + nhịp thì bền.
 
+## VÒNG 2 — MẪU THẬT (2026-07-24)
+
+Đọc thread Voz thật + blog SEO thật. Xác nhận + bổ sung:
+
+**Văn-người (Voz):**
+- Xác nhận tiểu từ à/nhé/thôi/vậy; viết tắt ko/k/dc; xưng hô thớt/bác/nó; cộng đồng gọi "vozer".
+- MỚI: **lược chủ ngữ** rất phổ biến ("ko làm gì cả", "Thế là nó bỏ đi luôn") → đã thêm tell **B8**.
+- MỚI: **chửi nhẹ/rề** dày đặc (vl, dkm/dcm, đéo, "con l", hãm) + **cố tình sai chính tả né filter** (zú, loz) — tín hiệu người rất mạnh, nhưng chỉ hợp khi input đã thô. → thêm dòng "Chửi nhẹ" vào KHO (kèm cảnh báo).
+- Viết thường liên tục, lười hoa, dấu ba chấm.
+
+**Văn-AI (blog SEO toponseek) — ví dụ "before" THẬT:**
+- A1: "Trong thời đại số hóa, người dùng có xu hướng tìm kiếm thông tin"; "Trong bối cảnh cạnh tranh online ngày càng khốc liệt".
+- A2: "Không chỉ… mà còn" lặp nhiều lần trong bài.
+- A3: "Bên cạnh đó, TopOnSeek còn được nhiều doanh nghiệp tin tưởng".
+- A7: "một cách tự nhiên / một cách khéo léo / một cách rõ ràng".
+- A5/A6: "bền vững, mang lại hiệu quả lâu dài".
+
 ## NGUỒN
 - https://help.brandsvietnam.com/vi/article/dau-hieu-nhan-biet-noi-dung-duoc-viet-boi-ai-3zy07d/
+- https://voz.vn/t/vi-sao-threads-thanh-noi-ly-tuong-de-boc-phot-va-xa-gian.1108727/ (mẫu văn-người)
+- https://voz.vn/t/tam-su-chuyen-gia-dinh.1184247/ (mẫu văn-người)
+- https://www.toponseek.com/blogs/dich-vu-viet-bai-chuan-seo-len-top/ (mẫu văn-AI thật)
 - https://vnreview.vn/threads/bay-cach-viet-bang-chatgpt-ma-khong-bi-phat-hien.45919/
 - https://arxiv.org/html/2405.03206
 - https://vi.wikipedia.org/wiki/Danh_sách_tiếng_lóng_trong_tiếng_Việt_của_thế_hệ_Z
