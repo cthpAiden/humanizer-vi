@@ -167,6 +167,10 @@ Tổng sau vòng 9: **36 tell** (27 trang trọng A1–A27 + 9 khẩu ngữ B1�
 - **Lời chúc mừng (khai trương/sinh nhật/Tết):** suýt thêm nhầm — "an khang thịnh vượng", "vạn sự như ý" trông giống cụm sáo rỗng nhưng thực ra là **thành ngữ chúc văn hóa thật**, người Việt dùng nguyên văn không ngại. Không phải tell. Tell thật chỉ xảy ra khi AI nhồi liền 3 câu chúc cùng lúc — đúng cơ chế A10 (rule-of-three) đã có sẵn, chỉ thêm ví dụ.
 - **Thông báo nhóm chat công ty:** search không ra pattern cụ thể mới. Xét lại thấy vấn đề (AI viết quá trang trọng "Kính gửi các thành viên" cho một nhóm Zalo/Messenger vốn xuề xòa) là register-mismatch thuần túy — đúng chức năng QUY TẮC VÀNG đã xử lý (nhận diện register rồi bám đúng tông), không phải lỗ hổng riêng. Không cần thêm gì.
 
+**Ca thật do người dùng đưa vào test (không phải tự tạo) — caption du lịch mạng xã hội:** phát hiện lỗi tự-kiểm thật khi tự áp dụng skill: bản nháp đầu sửa khuôn "không...mà là" (A14) ở một câu nhưng quên còn một câu khác dùng đúng khuôn đó — bản gốc lặp cấu trúc A14 hai lần trong cùng đoạn ngắn, sửa sót một chỗ thì bản sửa vẫn lộ y bản gốc. Đây là khoảng trống thật trong QUY TRÌNH bước 5 (tự kiểm): mục cũ chỉ liệt kê soát TỪNG tell riêng lẻ (em-dash, rule-of-three, emoji), chưa nhắc soát xem có KHUÔN CÂU nào (không riêng A14) bị lặp y hệt 2 lần trong một đoạn ngắn — khác A15 (lặp Ý bằng từ khác) ở chỗ đây là lặp CẤU TRÚC, có thể lặp dù ý hơi khác. Đã thêm dòng soát vào bước 5 + ghi chú vào A14 + fixture Case 13 (giữ nguyên input thật của người dùng).
+
+Cũng xác nhận thêm: câu hỏi mời tương tác cuối bài (CTA) KHÔNG phải tell — kỹ thuật content thật, để nguyên.
+
 ## NGUỒN
 - https://github.com/blader/humanizer (bộ gốc — kiến trúc + danh mục pattern đối chiếu)
 - Cao Xuân Hạo, Trần Thị Tuyết Mai — *Sổ tay sửa lỗi hành văn* (danh từ hóa, hành văn Việt tự nhiên)

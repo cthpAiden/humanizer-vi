@@ -164,6 +164,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ✅ "Chúng tôi làm vì đam mê chứ không phải vì tiền. Đơn giản vậy thôi."
 - ❌ "Khi nói đến hiệu suất, đây là một trong những công cụ tốt nhất. Điều này có nghĩa là bạn sẽ hài lòng."
 - ✅ "Về hiệu suất, đây thuộc hàng tốt nhất. Tức là bạn sẽ ưng."
+- *Cẩn thận khi sửa:* "không phải X mà là Y" hay bị AI dùng LẶP LẠI 2 lần trong cùng một đoạn ngắn (status, caption). Sửa một chỗ mà quên soát chỗ kia thì bản sửa vẫn lộ y như bản gốc — đổi câu thứ hai sang khuôn khác hẳn (ví dụ "X chứ không phải Y", hoặc bỏ khuôn tương phản, nói thẳng).
 
 **A15. Lặp ý, diễn giải vòng vo** `[trang trọng]`
 *Lộ vì:* nói đi nói lại cùng một ý bằng từ khác; đoạn sau nhắc lại đoạn trước mà không thêm gì mới.
@@ -350,7 +351,7 @@ Rồi viết lại **theo giọng của họ**, không chỉ bỏ tell mà còn 
 3. **Rewrite** — sửa từng tell, giữ nghĩa + đủ ý + dialect.
 4. **Chống vô hồn** — kiểm nhịp/quan điểm/chi tiết.
 5. **Tự kiểm** — đọc lại bản vừa sửa, tự hỏi 2 câu (mượn của blader):
-   - **(1) Chỗ nào còn lộ AI?** Soát cả tell MỚI mình vừa vô tình tạo: chèn em-dash (A8) khi nối ý, lỡ dựng rule-of-three (A10), tự chế emoji input không có (B2). Không vá tell này bằng tell khác.
+   - **(1) Chỗ nào còn lộ AI?** Soát cả tell MỚI mình vừa vô tình tạo: chèn em-dash (A8) khi nối ý, lỡ dựng rule-of-three (A10), tự chế emoji input không có (B2), lặp đúng một khuôn câu 2 lần trong đoạn ngắn — nhất là "không...mà là" của A14 (dễ sửa được câu này lại quên câu kia dùng chung khuôn). Không vá tell này bằng tell khác.
    - **(2) Có bịa thêm gì không?** Ý, số, tên, nguồn nào không có trong input thì bỏ. Không thêm gì input không có.
 6. **Final** — trả text theo đúng CHẾ ĐỘ OUTPUT (xem dưới). Mặc định chỉ bản đã humanize, không kèm danh sách tell (trừ khi người dùng hỏi "sửa gì").
 

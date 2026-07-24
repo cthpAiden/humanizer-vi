@@ -167,3 +167,34 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau:**
 > Trời ơi bực ghê, đặt hàng mà trễ những 3 ngày lận. Nhắn shop hỏi thì đợi hoài đợi hoài mới thấy rep. THẤT VỌNG thiệt sự luôn á.
+
+---
+
+## Case 13 — Caption du lịch mạng xã hội (register lẫn: câu đầy đủ + "mình" + emoji thưa)
+
+**Tells:** A14 (khuôn "không...mà là" lặp 2 lần), A15 (một ý nhắc lại 3 lần)
+*Điểm chính: đây là ca thật do người dùng đưa vào test, không phải tự tạo. Bắt được lỗi tự-kiểm thật: bản nháp đầu tay sửa được câu A14 thứ nhất nhưng QUÊN câu thứ hai dùng chung khuôn — đúng thứ mục self-check mới thêm ở QUY TRÌNH bước 5 nhắm tới. Register lẫn (câu đầy đủ, không tiểu từ, nhưng có "mình" + 2 emoji thưa) → giữ nguyên mức đó, không kéo hẳn về trang trọng hay khẩu ngữ.*
+
+❌ **Trước:**
+> 🌿 Ngắm một nơi đẹp, tự nhiên thấy lòng nhẹ hơn.
+>
+> Có những khung cảnh không cần quá nổi tiếng, cũng chẳng cần phải chỉnh màu thật nhiều. Chỉ cần bầu trời trong, vài tia nắng xuyên qua tán cây, mặt nước lặng và một cơn gió vừa đủ cũng đủ khiến mọi thứ chậm lại.
+>
+> Đôi khi, điều khiến một nơi trở nên đáng nhớ không nằm ở việc nó đẹp đến mức nào, mà là cảm giác bình yên nó mang lại. Đứng giữa thiên nhiên, hít một hơi thật sâu và tạm quên những bộn bề thường ngày, mình mới nhận ra có những khoảnh khắc đơn giản lại đáng giá hơn rất nhiều.
+>
+> Nếu có dịp, hãy dành thời gian đi đến một nơi bạn chưa từng ghé qua. Biết đâu, điều bạn mang về không phải là vài bức ảnh đẹp, mà là một tâm trạng tốt hơn.
+>
+> 📍 Mỗi chuyến đi đều có một câu chuyện. Còn bạn, nơi nào khiến bạn muốn quay lại nhiều lần nhất?
+
+✅ **Sau:**
+> 🌿 Ngắm một nơi đẹp, tự nhiên thấy lòng nhẹ hơn.
+>
+> Cảnh cũng không cần nổi tiếng hay chỉnh màu gì nhiều. Chỉ cần bầu trời trong, vài tia nắng xuyên qua tán cây, mặt nước lặng, thêm cơn gió vừa đủ, vậy là đủ khiến mọi thứ chậm lại.
+>
+> Đứng giữa thiên nhiên, hít một hơi thật sâu, tạm quên hết bộn bề thường ngày, mình mới nhận ra cái đáng nhớ ở một nơi không nằm ở chuyện nó đẹp cỡ nào, mà là cảm giác bình yên nó mang lại.
+>
+> Có dịp thì cứ thử đến một nơi chưa từng ghé. Biết đâu cái mang về hóa ra lại là một tâm trạng nhẹ nhõm hơn, chứ không phải vài tấm ảnh đẹp.
+>
+> 📍 Mỗi chuyến đi đều có một câu chuyện riêng. Còn bạn, nơi nào khiến bạn muốn quay lại nhiều lần nhất?
+
+*Lưu ý thêm: câu hỏi đóng ("Còn bạn... quay lại nhiều lần nhất?") KHÔNG phải tell — CTA mời tương tác là kỹ thuật content thật, người viết content thật cũng làm vậy. Để nguyên gần như y hệt.*
