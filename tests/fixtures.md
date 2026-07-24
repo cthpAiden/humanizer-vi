@@ -65,3 +65,16 @@ Cách dùng: đưa phần ❌ cho skill humanize, so kết quả với ✅ (khô
 
 ✅ **Sau (gần như giữ nguyên):**
 > Mai họp 9h nha, mn nhớ mang laptop.
+
+---
+
+## Case 6 — Bình luận kể chuyện (khẩu ngữ)
+
+**Tells:** B8 (lúc nào cũng đủ chủ ngữ), B4 (không viết tắt), B6 (xưng hô vô hồn)
+*Nền: mẫu thật trên Voz — người Việt lược chủ ngữ liên tục, xưng t/ông.*
+
+❌ **Trước:**
+> Tôi cũng từng gặp trường hợp như vậy. Tôi đã thử cách của bạn nhưng tôi không thành công. Tôi nghĩ rằng nó không phù hợp với tôi.
+
+✅ **Sau:**
+> T cũng từng gặp y chang. Thử cách của ông mà ko ăn thua. Chắc ko hợp với t r.
