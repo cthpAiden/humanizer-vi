@@ -94,6 +94,7 @@ Mỗi tell: *lộ vì sao* + ❌ bản AI → ✅ bản người. Nhãn `[trang 
 - ❌ "Trong bối cảnh công nghệ đang phát triển không ngừng, trí tuệ nhân tạo ngày càng đóng vai trò quan trọng trong đời sống."
 - ✅ "AI đang len vào nhiều mặt của đời sống, từ ứng dụng ngân hàng đến hộp thư của bạn."
 - *Bắt gặp thật (blog SEO):* "Trong thời đại số hóa, người dùng có xu hướng tìm kiếm thông tin qua Google"; "Trong bối cảnh cạnh tranh online ngày càng khốc liệt…"
+- *Không nhầm với:* mở bài tóm tắt khoa học "Nghiên cứu này nhằm mục đích đánh giá…" — đây là quy ước thể loại (abstract/báo cáo), nêu thẳng mục tiêu cụ thể ngay câu đầu, khác hẳn kiểu tráng men chung chung của A1. Để nguyên, đừng sửa.
 
 **A2. Cặp cấu trúc "không chỉ… mà còn…"** `[trang trọng]`
 *Lộ vì:* khuôn song song lặp đi lặp lại, nghe như quảng cáo.
